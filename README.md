@@ -191,9 +191,9 @@ Struktur folder pada proyek ini disusun berdasarkan fungsi dan tanggung jawab ma
 
 ## Developer
 
-**Salwa Nabilah**  
-Mahasiswa Pendidikan Multimedia  
-Universitas Pendidikan Indonesia
+Kiki Kurniawan 		
+Salwa Nabilah 		
+Gina Amini Nurul Aulia 	
 
 ---
 
