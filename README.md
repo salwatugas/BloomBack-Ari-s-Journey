@@ -199,6 +199,6 @@ Universitas Pendidikan Indonesia
 
 ![image alt](https://github.com/salwatugas/BloomBack-Ari-s-Journey/blob/895bfd31f96e1ad35e1b4a1bb52947f089bea9b8/MAINMENUSS.png)
 ![image alt]([https://github.com/salwatugas/BloomBack-Ari-s-Journey/blob/895bfd31f96e1ad35e1b4a1bb52947f089bea9b8/MAINMENUSS.png](https://github.com/salwatugas/BloomBack-Ari-s-Journey/blob/95118b63acf2b5fb5c60fdfb6c726a593cb465ac/GAMEPLAY1.png))
-![image alt](https://github.com/salwatugas/BloomBack-Ari-s-Journey/blob/895bfd31f96e1ad35e1b4a1bb52947f089bea9b8/MAINMENUSS.png)
+![image alt]([https://github.com/salwatugas/BloomBack-Ari-s-Journey/blob/895bfd31f96e1ad35e1b4a1bb52947f089bea9b8/MAINMENUSS.png](https://github.com/salwatugas/BloomBack-Ari-s-Journey/blob/c5e74aea2ecc6b86037747cd611a7a3f360837d4/GAMEPLAY2.png))
 ![image alt](https://github.com/salwatugas/BloomBack-Ari-s-Journey/blob/895bfd31f96e1ad35e1b4a1bb52947f089bea9b8/MAINMENUSS.png)
 ![image alt](https://github.com/salwatugas/BloomBack-Ari-s-Journey/blob/895bfd31f96e1ad35e1b4a1bb52947f089bea9b8/MAINMENUSS.png)
