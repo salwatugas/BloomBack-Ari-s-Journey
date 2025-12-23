@@ -6,6 +6,21 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 48003650d917e434c9e07e7d586d39a6
+  - enabled: 1
+    path: Assets/Scenes/Loading_Scene.unity
+    guid: 9ce1c9646564037499f8a00581febcbf
+  - enabled: 1
     path: Assets/Scenes/Area_RumahAri.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Area_Jalan1.unity
+    guid: 737007d98d3c4cf4ebb4411858f6f64a
+  - enabled: 1
+    path: Assets/Scenes/Area_InteriorAri.unity
+    guid: 0b980d448aa6ce042aad51e9d54472fd
+  - enabled: 1
+    path: Assets/Scenes/Area_KamarAri.unity
+    guid: 608664b9ed9733e43992d540e7cc9051
   m_configObjects: {}

@@ -1,0 +1,4153 @@
+fileFormatVersion: 2
+guid: 1e13187705d45cd4d8742efc5d80803d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: taanah2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e71355dcd133b47ac46daf6e413f95
+      internalID: -781013020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35ddba9ffaaff0428308ff9ad450790
+      internalID: -110185973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31e8f466ac73bf47b9d23b21010271b
+      internalID: -1563849328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19d67c9b3f40f34c96313701d46d100
+      internalID: 980850517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb96c04c04ed0a4a9df0dcbbaaab6ae
+      internalID: -1918358133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c66d3c92840804fb996a9bdb6630d5
+      internalID: -1634823150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c583f36f3c50ae243ad1b257664af12f
+      internalID: 1450883302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1ba88394283944a878af65c72660af
+      internalID: -776811780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f127985f475c48648b114c7c9588a7f5
+      internalID: 189555710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f267411bad51cc14789c3bbace800b4a
+      internalID: 181888150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff7ef3b631f99d4a9cbfe6661e6e178
+      internalID: -721847096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f0fc82d3a53954180cfd4afd871a90
+      internalID: 531917818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb10feb258e59de46ac52922646e36bd
+      internalID: 1432257730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2356b09c6a952ab4298b9bd45eb8775a
+      internalID: 1406358323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c72966c8b0d2fc4eaafc90da18d3d61
+      internalID: 2024563273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14481615c18cef4bb4a1f216aeff9ed
+      internalID: -206174986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048e0ed903acc27488931b56601a04b1
+      internalID: 1652407518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_17
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3375388a885684e489b1a570aff89c57
+      internalID: 1602139381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_18
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e6f72768fd73a49be347f315da5263
+      internalID: -1726353234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_19
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517219c0c5a99734793a1441597dc61d
+      internalID: 33968115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74d6b27f7116a14593a0875d0938148
+      internalID: 1034619287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_21
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8e58ac6b360af44810a773ba06de5e
+      internalID: -968879831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_22
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d019ea80eee920c4fb3aab050781a3a7
+      internalID: -699169884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_23
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20e4869c1801184a85360778999cd82
+      internalID: -449732422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_24
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41d94f9d1e5a6248a91473a2d8ddbee
+      internalID: -304109298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_25
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d6b490fd5d66a429b554b3cc362fbc
+      internalID: 769259442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_26
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4fdc2618f0c854a806d0d5b6bc3a0a
+      internalID: -1093401522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_27
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3c91d8e58094045a4519b5e7331d17
+      internalID: 1932701866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_28
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ac7d1070ff80946aff90aca2abb35b
+      internalID: -840682524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485b34c8555352c449932584579175e2
+      internalID: 445140432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dc10798adfb0847b56a63c5aea99ac
+      internalID: 349520404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c21b2abc2853245974a7b5f6488653
+      internalID: 285412471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd157ae99e45d646be94768eb3f0a1d
+      internalID: 1169066428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709113d20d1a84a4ca47dc0ab71babc1
+      internalID: -1808366916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d8ed27549582845b7da309e47e2b45
+      internalID: 1712668525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddec4e559d974140a8cb00ca94185a9
+      internalID: -914375096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_36
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd886a683052c1b46ab7d09da4b17173
+      internalID: 691136398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f2ff9d976b03742ace8a00f0d06882
+      internalID: -1605793847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_38
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ca3c419cc18c14db28f7291ba85135
+      internalID: 1337536833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_39
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb32a7100ce21094a9dbeb6e58475cb6
+      internalID: -2016896095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_40
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a02d20d4c28aeb469591cb8051ecff8
+      internalID: 805148766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_41
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8291ce6caa667ca47a7087985b5b39d1
+      internalID: -1699354676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_42
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9028f4caf020a474d8e588de67d00840
+      internalID: 460676805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_43
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40caf62fd932f9b4698c6f7276b98569
+      internalID: 962711872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_44
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb33e905cef92b448450dbf4a912963
+      internalID: 900768399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_45
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75d0bc2195e04d49bf9c49cec003bcf
+      internalID: 1741217577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_46
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731d36937e985774b83e77cd639baa03
+      internalID: 176967293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_47
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f47af387e4d73d43968d3b3bd53c0ba
+      internalID: 491958748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_48
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50bb2306c1f0914cba789b23114f6f7
+      internalID: 1212354645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_49
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a9829abe7558742984b820443a8611
+      internalID: 1415305038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_50
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8145abd13a4dc054c9640b117390c24e
+      internalID: -971130800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_51
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca17337fdd797db4ba8ae9be2a876557
+      internalID: -1294986836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_52
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf3abfa9d8545a4a95b98a4089e4a53
+      internalID: 1705189999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_53
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297b028aaccbada488a68be5997f1674
+      internalID: -2122432495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_54
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f1643ae90f0d8418c02b8ce5e9f9fb
+      internalID: 649298881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_55
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53d1e49690e4e14d812fba58c40f116
+      internalID: 164340958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_56
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a92e11d73df6f478c3d5f8fb9d8f71
+      internalID: -1356476209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_57
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15c24dcf38e4bc44937330df7ed17bb
+      internalID: 463580994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d46c585f98c4994b9b3f0f7945f589e
+      internalID: -1699113239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d5baa40c149344fa833d6b85045bcb
+      internalID: 1004434954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2674ce44371c563458467340925b7941
+      internalID: -10534375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f366aeea285dc864886872bc3ca98b64
+      internalID: 657804978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_62
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edf0cf286bb6e948bc787c1b556df96
+      internalID: -1164366991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_63
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b336a70b340b94890bd6beb0ad1b24
+      internalID: -1257461933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_64
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51dce7fd5b1c2b419666daf497b1f09
+      internalID: 1267555496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_65
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80773333dcfaf740a0c1a45de9aaaea
+      internalID: 1901598557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_66
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c843491ef19bd9b4897c57db26ef685b
+      internalID: -702879023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_67
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fba7128ce02c04baafc079eafa62f9
+      internalID: -1293876330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de896b0887cd4e48912c93684196566
+      internalID: -215762628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_69
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b203af0bf84a90a448309f36f189631a
+      internalID: -1536259125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_70
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fa2f0eb56024946b67242b7d53128e
+      internalID: -1513218609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_71
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5764d696616ce8f46a30ecaebcd4032d
+      internalID: 1540914738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_72
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9771021d8619a6428e7ecc91c60f804
+      internalID: -1679546904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_73
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fe4de58cdf2074abd7e7206d258bd3
+      internalID: -1623857580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_74
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f888e1dd0646cb04e8e87e81867e8785
+      internalID: -1284502691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_75
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ffc00dbd714544fbbfced044584bf1
+      internalID: -697026565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_76
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f9a5fd767b6b54c8b092dfb4d38edc
+      internalID: 1616514423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_77
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9178666303911fd47b2e404d2a88401c
+      internalID: 1044054316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_78
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd843a4bb671eeb4684278a44bbb037f
+      internalID: 811487624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_79
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c68aac3d875de941b92b1bf51d153c2
+      internalID: 1876300293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_80
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc423bbbab92fdc4fb02e7ce7b4f1574
+      internalID: -1582130198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_81
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4148bf748b9196549826231624fba4a7
+      internalID: -1626186365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_82
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69dcff1c1272d941a5aa7c4ad037340
+      internalID: 1796859671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_83
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b8e64f90d13b94f8a3557051331b8a
+      internalID: 185617314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_84
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22548e5c5aa2a924cbeae39663173f3f
+      internalID: -1612912299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_85
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdfe8ed39427eb43864271ec4abc5a8
+      internalID: 1539346148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_86
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d30c02e66632341a2d42114723dcb5
+      internalID: 42988012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b8c06ae8a0daa42bebdf792d6f3b0e
+      internalID: -649195817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa67791f5ed3b04a9c1e113f974656e
+      internalID: -213778348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a0c3a01972d2b4eaeed92fa674b06c
+      internalID: -397120248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30cca706e506724b9d955ec335fed9a
+      internalID: 455724332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a579c40256b674b45bd742f9974e92c4
+      internalID: -1844395041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ede2cd26af782459bdfbcd381071b2
+      internalID: -2002724489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51cf7a70a9209f4e8a095c781d12464
+      internalID: 2024498418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea36c384f804b0d41b2d6ac353e11a67
+      internalID: -1338630895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d0bf3389b81304aa474d1817262830
+      internalID: -1432074098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_96
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96720cff28515de4681a99b19c9ddb7f
+      internalID: 1167717824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_97
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065b97a3b0f61d64999eff213c2cb9f6
+      internalID: 1927871165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_98
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36676f207b47844284486ca2486894b
+      internalID: 472578403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_99
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b12b621f3909f54eb8d9f627f56a797
+      internalID: 1937670373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_100
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da07d1c44330ca4084bbfde76e87f59
+      internalID: 581146363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_101
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cb7f5dacbd3b5459ff65392664eeb3
+      internalID: 274587813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_102
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2cb09d5c8022c45abbb4f45fd44ae0
+      internalID: -847365794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_103
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad55083d9e66a1e48ae15c8e8aa96564
+      internalID: 252196995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_104
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefd1675790701b4d969ea7015ac90a5
+      internalID: 1421236993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_105
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1231d2aad6db4584b8c9fae5da36b2b9
+      internalID: -958675102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_106
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b89d9238189894ebfa2eba5c4385b0
+      internalID: 870688188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_107
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f383114e8ceedbc4fa47472a9e619713
+      internalID: 899827513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_108
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a3bee1a5188dc41a351e51093ac042
+      internalID: 2129329380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_109
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4317278f27ed664ba648a48af511eb3
+      internalID: -926506597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_110
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bab64afffe3e814f991bc77677e3060
+      internalID: 2029823497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_111
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c57e715640bf864696295145808348e
+      internalID: 368864428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_112
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801704c666d3a9f4a9058ce5ed21eb1f
+      internalID: 381438946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_113
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370ab1fe96b2bf34bbc541487ab39e64
+      internalID: 1025131486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_114
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01759be7657f12344b8af8d19439c71a
+      internalID: -1533243525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_115
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160d951f86e7f7040acfd35b0114cb11
+      internalID: -933364611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_116
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64396ca5d12dce642bfe4c1d37ef06cb
+      internalID: 1350029426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_117
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df00aebe3b9e70346a0ea523af72f915
+      internalID: -1408396402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dae59f45aee41648bd4dc7419e1c290
+      internalID: 1349647296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_119
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1965e3bf8183146b0ffd814d890d25
+      internalID: -2099601164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_120
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a221c740d4fd048be0a1e61b2c46f0
+      internalID: -1188827655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_121
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5ab0c19faeec143b0c1ce0e1db78f1
+      internalID: -1290425485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_122
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b449902b4cca0498d2c9f58709172f
+      internalID: 1605830981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_123
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b51c42be53f214280b28982c8a42a9
+      internalID: 444439623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_124
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172b4c59092bedf418c7cff91c0c76d0
+      internalID: -1889848855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_125
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79be8ecda85307a44934a6f5f2a52307
+      internalID: -343323574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_126
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac09ec14753ce884bb528df137c379ac
+      internalID: 1386864721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_127
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c86beb9de877f4bba1a3214c74a3bb
+      internalID: -2021513433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_128
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c6d36ab900fa54aa0e73c5b82cde65
+      internalID: 193445899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_129
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b6d8d41de19d74e8cffd9a168f37d0
+      internalID: 1946639253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_130
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58369ab28f4d89a4da34bb962a420a18
+      internalID: -1314614518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_131
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1da0c235c0b9a48a749c48e693ad9f
+      internalID: 805337534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_132
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1944cfe6e51d9214db366a89a6cf0c36
+      internalID: -1109267016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_133
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7190a4c8e65ca4bb26ff7c6d121950
+      internalID: -890711290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_134
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d03e522b6f45846a6fb401b238487b
+      internalID: -1312268344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_135
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb44d5bac31ccb744ba67e7a333cb156
+      internalID: -371936712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_136
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958bed916863c5346817c3310b86c419
+      internalID: -2113489123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_137
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56dc57f6689b0c42abc2f0e80c26334
+      internalID: 1042666246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_138
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1864d1b5e4e851949b45f416949af688
+      internalID: 1913194895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_139
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2eb658edc878e44ba490ff95af4cde
+      internalID: 427110340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_140
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5154d36812e5145936a9ef600309e9
+      internalID: -580919445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_141
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942800c4d9f12224a980c47b63e1ade1
+      internalID: 244188636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_142
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a91f6971c67af64b846914b48db7074
+      internalID: 280630159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_143
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c7b26ff0bbece48903693368c87553
+      internalID: -1387809800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_144
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226e507954f87c742ac4877030e1586a
+      internalID: -1434901986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_145
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76154bdee5262d1408cd3bfd1bd52cd6
+      internalID: -2073118948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_146
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e20b2324e7fb954cb9ecfe450297a3a
+      internalID: 1333210999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_147
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ebf3e2f0e1a154abdd23779a1fbce2
+      internalID: 1388890317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_148
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0904cb69347eb146831136c4bb53be6
+      internalID: -1134944075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_149
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11c5dc00c4bfaf4f9ea3ae0ab48bb29
+      internalID: -500036533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_150
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1012b7acb4b3c1a45b323b15db48a673
+      internalID: -9316286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_151
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c09050acf465bd4aa926c43e580d1c0
+      internalID: -336560086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_152
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee952f22b9e0f95438488f0ebd1c78bf
+      internalID: 1676476153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_153
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36dff862f04f6fb4d94803207ce26183
+      internalID: -480237642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_154
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a507ee1e48040d1498baf71e370cd828
+      internalID: -570332072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_155
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee722c1e22c5f747837b6d91715da42
+      internalID: -1787190250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_156
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f90a5f91d90d244864615de22e6e2e
+      internalID: 1800055169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_157
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a4f7d6251513846b59ecf875cdf15e
+      internalID: -413716609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_158
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62754eece758fa646bd9ed6b1edc9e96
+      internalID: -593849521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_159
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81aa2abade27542459c6c1e782d9e8c8
+      internalID: 872859612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_160
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab5d7d7b18df554481de3100e3f8395
+      internalID: 1885436599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_161
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766a8351240f3a0468e2532d2f65437e
+      internalID: -1318077643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_162
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2535ed017b8394045a0afd6b18389363
+      internalID: 2017446317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_163
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bde7e1af3697641afaa544a78ebc76
+      internalID: 684865790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_164
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaab28bb71079746805ca2a0ba68352
+      internalID: 1512978682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_165
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12360c273f05e17488812c0893318371
+      internalID: 772729423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_166
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64792c5f16a63564292a52b81df8cb0b
+      internalID: 423407404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_167
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac370bde97231248b27225641af1ed3
+      internalID: -944663504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_168
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3e04ef7c897f94fa4e00f9d6c05077
+      internalID: 1276478366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_169
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cd278f01cba764c9ccd68d3428f7d0
+      internalID: -600037825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_170
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ebe4eb6eba53e408b963d43982a95b
+      internalID: 465737392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_171
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ba31cdfcfde7b4ea293b98b34f3aa4
+      internalID: 68184561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_172
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecea981c94316324aa3c285db6647825
+      internalID: 1543759022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_173
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5832d893c3de14c4ebf741a53b126291
+      internalID: -619992056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_174
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd39f2573fb40c4e95fe9f522a36ea8
+      internalID: 660372612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_175
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be625bd399e0b484b8d9b7cf1e7adb6c
+      internalID: 774864912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_176
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbf799ad1b50c34791583be08891425
+      internalID: -1846513751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_177
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214a895e73621c54991a886cf0d6acc8
+      internalID: -1351074129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_178
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277ef7603d35aee418bc59d6331f56ec
+      internalID: 2065951559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_179
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6762e42074eb7814d8bdf074e3f4316f
+      internalID: 1061330806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_180
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705ca457b8d44fe4ebf4612f09625c66
+      internalID: -1263556538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_181
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea64be49805af1478ad2dec1626b979
+      internalID: -175339001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taanah2_182
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202cca2342fa17746bfb83f323d06a3f
+      internalID: 1006370146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      taanah2_0: -781013020
+      taanah2_1: -110185973
+      taanah2_10: -721847096
+      taanah2_100: 581146363
+      taanah2_101: 274587813
+      taanah2_102: -847365794
+      taanah2_103: 252196995
+      taanah2_104: 1421236993
+      taanah2_105: -958675102
+      taanah2_106: 870688188
+      taanah2_107: 899827513
+      taanah2_108: 2129329380
+      taanah2_109: -926506597
+      taanah2_11: 531917818
+      taanah2_110: 2029823497
+      taanah2_111: 368864428
+      taanah2_112: 381438946
+      taanah2_113: 1025131486
+      taanah2_114: -1533243525
+      taanah2_115: -933364611
+      taanah2_116: 1350029426
+      taanah2_117: -1408396402
+      taanah2_118: 1349647296
+      taanah2_119: -2099601164
+      taanah2_12: 1432257730
+      taanah2_120: -1188827655
+      taanah2_121: -1290425485
+      taanah2_122: 1605830981
+      taanah2_123: 444439623
+      taanah2_124: -1889848855
+      taanah2_125: -343323574
+      taanah2_126: 1386864721
+      taanah2_127: -2021513433
+      taanah2_128: 193445899
+      taanah2_129: 1946639253
+      taanah2_13: 1406358323
+      taanah2_130: -1314614518
+      taanah2_131: 805337534
+      taanah2_132: -1109267016
+      taanah2_133: -890711290
+      taanah2_134: -1312268344
+      taanah2_135: -371936712
+      taanah2_136: -2113489123
+      taanah2_137: 1042666246
+      taanah2_138: 1913194895
+      taanah2_139: 427110340
+      taanah2_14: 2024563273
+      taanah2_140: -580919445
+      taanah2_141: 244188636
+      taanah2_142: 280630159
+      taanah2_143: -1387809800
+      taanah2_144: -1434901986
+      taanah2_145: -2073118948
+      taanah2_146: 1333210999
+      taanah2_147: 1388890317
+      taanah2_148: -1134944075
+      taanah2_149: -500036533
+      taanah2_15: -206174986
+      taanah2_150: -9316286
+      taanah2_151: -336560086
+      taanah2_152: 1676476153
+      taanah2_153: -480237642
+      taanah2_154: -570332072
+      taanah2_155: -1787190250
+      taanah2_156: 1800055169
+      taanah2_157: -413716609
+      taanah2_158: -593849521
+      taanah2_159: 872859612
+      taanah2_16: 1652407518
+      taanah2_160: 1885436599
+      taanah2_161: -1318077643
+      taanah2_162: 2017446317
+      taanah2_163: 684865790
+      taanah2_164: 1512978682
+      taanah2_165: 772729423
+      taanah2_166: 423407404
+      taanah2_167: -944663504
+      taanah2_168: 1276478366
+      taanah2_169: -600037825
+      taanah2_17: 1602139381
+      taanah2_170: 465737392
+      taanah2_171: 68184561
+      taanah2_172: 1543759022
+      taanah2_173: -619992056
+      taanah2_174: 660372612
+      taanah2_175: 774864912
+      taanah2_176: -1846513751
+      taanah2_177: -1351074129
+      taanah2_178: 2065951559
+      taanah2_179: 1061330806
+      taanah2_18: -1726353234
+      taanah2_180: -1263556538
+      taanah2_181: -175339001
+      taanah2_182: 1006370146
+      taanah2_19: 33968115
+      taanah2_2: -1563849328
+      taanah2_20: 1034619287
+      taanah2_21: -968879831
+      taanah2_22: -699169884
+      taanah2_23: -449732422
+      taanah2_24: -304109298
+      taanah2_25: 769259442
+      taanah2_26: -1093401522
+      taanah2_27: 1932701866
+      taanah2_28: -840682524
+      taanah2_29: 445140432
+      taanah2_3: 980850517
+      taanah2_30: 349520404
+      taanah2_31: 285412471
+      taanah2_32: 1169066428
+      taanah2_33: -1808366916
+      taanah2_34: 1712668525
+      taanah2_35: -914375096
+      taanah2_36: 691136398
+      taanah2_37: -1605793847
+      taanah2_38: 1337536833
+      taanah2_39: -2016896095
+      taanah2_4: -1918358133
+      taanah2_40: 805148766
+      taanah2_41: -1699354676
+      taanah2_42: 460676805
+      taanah2_43: 962711872
+      taanah2_44: 900768399
+      taanah2_45: 1741217577
+      taanah2_46: 176967293
+      taanah2_47: 491958748
+      taanah2_48: 1212354645
+      taanah2_49: 1415305038
+      taanah2_5: -1634823150
+      taanah2_50: -971130800
+      taanah2_51: -1294986836
+      taanah2_52: 1705189999
+      taanah2_53: -2122432495
+      taanah2_54: 649298881
+      taanah2_55: 164340958
+      taanah2_56: -1356476209
+      taanah2_57: 463580994
+      taanah2_58: -1699113239
+      taanah2_59: 1004434954
+      taanah2_6: 1450883302
+      taanah2_60: -10534375
+      taanah2_61: 657804978
+      taanah2_62: -1164366991
+      taanah2_63: -1257461933
+      taanah2_64: 1267555496
+      taanah2_65: 1901598557
+      taanah2_66: -702879023
+      taanah2_67: -1293876330
+      taanah2_68: -215762628
+      taanah2_69: -1536259125
+      taanah2_7: -776811780
+      taanah2_70: -1513218609
+      taanah2_71: 1540914738
+      taanah2_72: -1679546904
+      taanah2_73: -1623857580
+      taanah2_74: -1284502691
+      taanah2_75: -697026565
+      taanah2_76: 1616514423
+      taanah2_77: 1044054316
+      taanah2_78: 811487624
+      taanah2_79: 1876300293
+      taanah2_8: 189555710
+      taanah2_80: -1582130198
+      taanah2_81: -1626186365
+      taanah2_82: 1796859671
+      taanah2_83: 185617314
+      taanah2_84: -1612912299
+      taanah2_85: 1539346148
+      taanah2_86: 42988012
+      taanah2_87: -649195817
+      taanah2_88: -213778348
+      taanah2_89: -397120248
+      taanah2_9: 181888150
+      taanah2_90: 455724332
+      taanah2_91: -1844395041
+      taanah2_92: -2002724489
+      taanah2_93: 2024498418
+      taanah2_94: -1338630895
+      taanah2_95: -1432074098
+      taanah2_96: 1167717824
+      taanah2_97: 1927871165
+      taanah2_98: 472578403
+      taanah2_99: 1937670373
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

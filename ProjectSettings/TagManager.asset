@@ -3,17 +3,20 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Trash
+  - Seed
+  - Interactable
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Trash
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Seed
+  - 'DecorationSpot '
+  - Ari
   - 
   - 
   - 
@@ -40,4 +43,46 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1503761151
+    locked: 0
+  - name: Sampah
+    uniqueID: 3999636641
+    locked: 0
+  - name: Pagar1
+    uniqueID: 968283225
+    locked: 0
+  - name: Pagar2
+    uniqueID: 3214535093
+    locked: 0
+  - name: Pagar3
+    uniqueID: 2499799501
+    locked: 0
+  - name: Pagar4
+    uniqueID: 1828257581
+    locked: 0
+  - name: RumahAri
+    uniqueID: 1869942959
+    locked: 0
+  - name: Dahan
+    uniqueID: 2857010769
+    locked: 0
+  - name: Decoration
+    uniqueID: 1082634867
+    locked: 0
+  - name: Character
+    uniqueID: 1619718795
+    locked: 0
+  - name: Daun
+    uniqueID: 595965671
+    locked: 0
+  - name: Pagar5
+    uniqueID: 1692454241
+    locked: 0
+  - name: IconE
+    uniqueID: 3329846083
+    locked: 0
+  - name: BarProgress
+    uniqueID: 2830873805
     locked: 0

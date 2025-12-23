@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -108,7 +108,5887 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Tilesets Gelap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4abc372e4505be4aa409799585e2bdd
+      internalID: 292937826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab41a03258132d4f91606dfd88eb82b
+      internalID: 1171621666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2374a3cf5a121f42a4dc42b1af19609
+      internalID: -2057823040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0078142ded9da346b851e23b751b608
+      internalID: 1446704929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22f1b69901f31d4f9e9726bab94b61d
+      internalID: -763774487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0aa936088fddd498a3338c0fd50f45
+      internalID: -922804726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a602bdb3b3ba441be4e0f2f03306ff
+      internalID: 651281593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df93a14bacbe6b4e86cdc45bb2677ab
+      internalID: 766640840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2f8189f22ed5c46be4f75dbee8d523
+      internalID: -1687652376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33d6c46fcfe1a944bdc765fdd280cab
+      internalID: 80068521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95c7896b8e5a744eb2921a328dd7119
+      internalID: -1916935869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4ea77f401cffd49b0cfe2c21535890
+      internalID: -20104628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bec2a96d06b4694086a98b8b3bcfbcc
+      internalID: -1217360115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5476cbb6b10ce44b80237c32cd8d312
+      internalID: -813017667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7614feead45e63845bc95e7882571cac
+      internalID: 1542497767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659e6ed0ada3c6c42a9371dabe4a7b3d
+      internalID: -955574283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cb1e40eb7b365478b31b2cf4afe87a
+      internalID: 1621480883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_17
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b753e8ee4403dd46a6f9a9de694cff5
+      internalID: -960376001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_18
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b680a0062860104468d356e3fc8cb166
+      internalID: 9623052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_19
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f4472f5ff44994694009a85d2878fc
+      internalID: -1822247017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f2e258129d19248986614730a66eb6
+      internalID: 377210745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_21
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47da20465a5efa14aa91c92fd0374ae6
+      internalID: -1041269578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_22
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54806678dc17d52498206685c32cb877
+      internalID: -1470501779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_23
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58084954ed4eda34f916e01d64f5a489
+      internalID: -24090406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_24
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea60073da45dbe4da48ce24917a9bdd
+      internalID: -919341042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_25
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfff7460ecf5b524590704b76b300192
+      internalID: -826578571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_26
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b486a76cd56f6eb4c8d4d5aa900d4b2f
+      internalID: 1349598759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_27
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66895717a05d1448ba8ee026d39cc8b
+      internalID: 912152384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_28
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b3358907da58c4892d2b0f5d61cda8
+      internalID: -490517143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2641abbbfdcf53a4da66264df5b39eef
+      internalID: 1042914563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248e37952e55aeb4ea13c3b5cdef1d9a
+      internalID: -1510147934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6b10e846d0fa74587619ca68391f5a
+      internalID: 758939370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4ad4c7b42f5524c94ff34d2bc86039
+      internalID: 1508325378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cbe71f2d722b646830326b3150f56c
+      internalID: 1103535004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60288808ad1006742adf3282e08ce926
+      internalID: -1429308192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2d8a7cf7df1f247850723e1baaac2d
+      internalID: 933412202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_36
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a01bc9b8c0c85448016949b6ac138a
+      internalID: 654453224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff29ad0abf3744043b82f7310a40ae61
+      internalID: -1833471553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_38
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de82bb84cb43bd044bac487122f316f9
+      internalID: 1086560867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_39
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d57d3eb8e51f3747b0acc968c5ebe7c
+      internalID: -837349818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_40
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ace6488780a7441baa731281134331
+      internalID: -1813061233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_41
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526cc828c617a3b4aa4ba191b05f4bf6
+      internalID: -95417300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_42
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b34894212a4a642b090c5b54b1afec
+      internalID: -1559419409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_43
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985e751063d002343ae73cdabf5d2234
+      internalID: 87794575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_44
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13722a3cc2b852e43aae4ee6e4b27217
+      internalID: 51997416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_45
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1380c53d5ea7dcb45a83cf4db79973cf
+      internalID: -1483410430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_46
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452f3cf904a857f468f6ce44d98a1983
+      internalID: 8453015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_47
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad9d3ac88befd84da2fbd6d151be3df
+      internalID: 714842119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_48
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc752273c6c29e44394b61c514f53bbe
+      internalID: -298313807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_49
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d1511e63b6bb047b1967d0a5ff8723
+      internalID: 1368531664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_50
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefd213c48ca16141bc1fa0d3f172128
+      internalID: 2145435744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_51
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698d2458e6d04414f849dd3ebf09580b
+      internalID: -1762497080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_52
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41a51f3468d5354da903036902e06ee
+      internalID: -1793025385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_53
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba83b748d7665245ba55b4d9cda88f1
+      internalID: 1831294060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_54
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459930d6cb57d8946bb08b88171920d3
+      internalID: -406797017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_55
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244e7968ce8734946ad599c2ac2276d1
+      internalID: -1580637582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_56
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2f7d1f97cab234da7d02f7442fa740
+      internalID: -1924602428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_57
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9add9ae9ccdb830428ed416debbe0679
+      internalID: -1079786139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a95e90e1a792846ac89296f2c98fb8
+      internalID: -2141753604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_59
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40d7fb4757937e448e223ebb8f17cf6
+      internalID: 1920933553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b0fbdd71ab02645a1e65869e17f8d4
+      internalID: -604140663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_61
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261e14e1e4778b74da27590a6d92bdb1
+      internalID: -634656349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_62
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a110c6ce4fb5d48b571651b3025c12
+      internalID: 1894534750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_63
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff77e3e41a676746b81488e448984c7
+      internalID: -1567731071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_64
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16ba48fe5db9b64bb4d8e5da49363f3
+      internalID: 143150816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_65
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273e9cf0dd2fa3f418b5f7e52da17dce
+      internalID: -1642778896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_66
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8899959f22dc4941b303e26ff7e8d3d
+      internalID: 488344866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_67
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d59606f14658a644b8b904b98f2f7eb
+      internalID: 1238220664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_68
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1c4148882a5214d9450a26404705e6
+      internalID: -2145428375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_69
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f6a50331b0df345b3fd384553f5ee1
+      internalID: -479166158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_70
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf0051b099546e479741d2d9aec6528
+      internalID: 465016243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_71
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f739e8f3611d64ea761f03af977c7a
+      internalID: -921507553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_72
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15660ff6a242594e8988a8864b6d679
+      internalID: 490706192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_73
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b570aace1315b14b85516b0421bb85e
+      internalID: -1083405514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_74
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5c7157f2c2d9442bba678e43fad7c0
+      internalID: -702264533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_75
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33632d265cb877449b44689005cc8811
+      internalID: -1295006681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_76
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6f04c47f284b64382413071d274820
+      internalID: -498420542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_77
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa2968729fae3d43a266f436b7b0cb9
+      internalID: 262020476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_78
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd575f9f3544f42429d8fa1de7299055
+      internalID: 1357471507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_79
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff547fc2b05b864aa3a5c0ada8aa59e
+      internalID: -1489901418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_80
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c911a1e3e89a54e4f9b57aea8ae7fdeb
+      internalID: -1420464375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_81
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41dc6763698b3e14e90438000a01c2a2
+      internalID: -1414335292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_82
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc903e3ca2183234fa4381fa1dcd9554
+      internalID: 1361918796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_83
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ced9b3538fdc6c408a982637ef8a8be
+      internalID: 1810968291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_84
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ee20edb5389b247b25001ef0da2f3f
+      internalID: -1562498899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_85
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4da53e1fa56a4e42955dca7a5046d9a
+      internalID: -644204175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ec301c864474a4f8c5610beabfcf68
+      internalID: -1060390805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_87
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb48c56b5ffb994f96a69ead8ef96ee
+      internalID: 76688765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c478c09aee0802448155dcd2646f6d7
+      internalID: -16456954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_89
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c68a1e05334f04b9490a8ed56ff3c7
+      internalID: 389592736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417f22e60f7ce8f4693d7a1e9e78d661
+      internalID: -993099613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_91
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0d6ee1484f14c4ca00609b244843df
+      internalID: 2089145553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_92
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a688f8089199610448da11cbe43e2055
+      internalID: 390870577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_93
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f468ff5740ccbd438fe46bc3b65e704
+      internalID: 204057824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_94
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a8169cd2555984683dc48157b9f969
+      internalID: -966096165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_95
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6032dcef88e0ad42a7f3ab931f53469
+      internalID: 1622000060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_96
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5909b0d2f35164b834b76a95ecf18a
+      internalID: -698574800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_97
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307071e81d737744b946d431e6932bf9
+      internalID: 618256335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_98
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f50cff1aa763d468d6943419ae8914
+      internalID: 1446697834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_99
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055dad3c43075dc4dab99a3c109f021a
+      internalID: 24277924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_100
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee01995b8c3ecb4da6663021b77ea3e
+      internalID: -318474839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_101
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0baeb5d54ca1da64abc56275f45f42ec
+      internalID: -456239159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_102
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491d09c092a43e34e8a2740098cd70ff
+      internalID: 1569515026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_103
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9030b8de896315347a366633a619f83c
+      internalID: -1954333508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_104
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163a735866c200b4eb75a56f33c3fc98
+      internalID: -6296754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_105
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bcb8467ae535e41bfc721bedae299b
+      internalID: -741554820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_106
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a2b36298855844791215fe8c7b3847
+      internalID: -2102692702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_107
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b47f5c21ece1046bf569e1c7be1223
+      internalID: 1864835825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_108
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a2f737930b5d448afa12cb19b430c3
+      internalID: -1575962752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_109
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c26e714f558934d9ad58b255162e3f
+      internalID: -1672907320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_110
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7da835bebe858f4cb69094adef6a8c1
+      internalID: 632200851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_111
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f38a70513272c345b4b50b9e9a9c0a4
+      internalID: -1207809466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e95fc45f1112549b1ea1d373cf77ca
+      internalID: -429107607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_113
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12999669168f7a4caddff233057b643
+      internalID: 1741078613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_114
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91762e20981a06743b4a0bcecb13e369
+      internalID: 1162688671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_115
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1263a0318c60d42a3975b5bde44984
+      internalID: 661602855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_116
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923a899b1d3a8094eb279c9b2766e56c
+      internalID: 1001813808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_117
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0d0824faacdd84a85a6c3c0da1b9ec
+      internalID: 10224025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_118
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82c39b0ca1f64e4f934e5f8db9bf723
+      internalID: 1896157064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_119
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e33964b9acfc6044a6646d559759d19
+      internalID: 1702901087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_120
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2172a2640e45447804162729c60f94
+      internalID: -27899081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_121
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139c5b7971336d34b91a6eff7dfd7b9d
+      internalID: -454785934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_122
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20fbb20e4ad9c945a00bdf0c54d7f98
+      internalID: -2053047878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_123
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624e4bd68e2fa2b4a905ae1134ea5e21
+      internalID: 862709639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_124
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79125009bd7e2f488c6ce6bd7ecd8f7
+      internalID: 421599797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_125
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef485f9b75d819144a3f2ea8c1ab807c
+      internalID: 376551321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_126
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14608ded05057c4ca85b227028cd37a
+      internalID: 1207022856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_127
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233a16422e44b47438a396263f02587c
+      internalID: -1809979076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_128
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a1452462f58734cb6e482e30e99069
+      internalID: -61764751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_129
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbabc73ac05c9d74e9f36b7d088bb1ff
+      internalID: 343895113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_130
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa44c56375ee5f4ab5bc4580f945f09
+      internalID: -651512886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_131
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ae2cea69461374c8244adbdaf6f2c3
+      internalID: 1877549514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_132
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fa109b0051f7549a791df429d1d2a2
+      internalID: -1054030089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_133
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf176cecc9d9914495ecca2f6ba34f7
+      internalID: 1572195445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_134
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcb0609af17d15459a1dd10e3e6a29b
+      internalID: -479653623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_135
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bd36e441396ca42a834bdd52ee23e9
+      internalID: -1790518401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_136
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ab27b209fb2e34aa099ea98a94dd5c
+      internalID: -2082886700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_137
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d728885d6bad64ebcc710d1a5c64c2
+      internalID: -1590865514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_138
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8535a2d1b2c00974bbb4e68ab04889f4
+      internalID: -1037714793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_139
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de6aa32652d21d479be24e6c78a9a07
+      internalID: -371821213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_140
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48eb4d8475f1d7445b93901ad9f7a4bd
+      internalID: 1056988055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_141
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df51254abbb883e498a3fc0fdd7bcb79
+      internalID: 1365013770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_142
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352250604799cbf458c757d8c57956fa
+      internalID: 1299334182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_143
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db9a95a7c4548142ae79d1b43b3da35
+      internalID: 1246777999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_144
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c683ae77649bbd947b84783db98da3e3
+      internalID: 810653338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_145
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8943b9a1841abd245ac99d737fc96bef
+      internalID: -1339368986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa1e4b64198aed44ba86e6f6a6ed6bf
+      internalID: 1941836043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_147
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97875af0abad9534c8f2b44960b42621
+      internalID: 1186280341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_148
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c2b8b60d5016649b00b9adb5a56598
+      internalID: -1453947485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_149
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5381f477c46ea4d9a47f94edc5109b
+      internalID: 1582301644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_150
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b79dcefcfcf894e81ba92a6beca5e2
+      internalID: 1293884330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_151
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913a9f24da9303c4cb4d4c64e021aec0
+      internalID: 870835562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_152
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f13065a1c5d544ea9afd034abfbe47
+      internalID: 1985765786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_153
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaac421be33b8fc4c9841fe2283999ce
+      internalID: 1641910066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_154
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a194382d62aed4e994d8dd670b9395
+      internalID: -1845275848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_155
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770edab0608931a4ab63a1f2641583ca
+      internalID: 578996273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_156
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f2a20af176d0944a251d248dd8e9c5
+      internalID: -338733269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_157
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f004f050cd8ab846a7ced555819cbfd
+      internalID: 1683324111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_158
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baae473f929734249a94e8ab5c6b2e28
+      internalID: 157937406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_159
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1528e0dc8c44d478109b1b67f86e1d
+      internalID: -837974004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_160
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b36d09d2a66ed1458a678d62f5f8669
+      internalID: 1080265400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_161
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361c576bce0f54c47b2d663f41b99bb3
+      internalID: 1910406764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_162
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c944cc93d9bc5429f62b53d6dad3e0
+      internalID: 1092183565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_163
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbe17e2d1eeb984c8deefd70a2dc613
+      internalID: 546233842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_164
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78a34b88f0510444ac58a335a5b371d
+      internalID: -1915518070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_165
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dea2dbd26a228a4dbc80906d34ea47c
+      internalID: -1879501376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_166
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74148229baaec94dbead7290f630099
+      internalID: 320904748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_167
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1160
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12fdca20d511ba429234aa9ebe4f59f
+      internalID: 27813176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_168
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1160
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b3cbbafb5911f4eb40c1d9010bf6f7
+      internalID: -308978978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_169
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1160
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c34b33f3bc57fe4cb405a9034da23e6
+      internalID: -573545834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_170
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1160
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fe902301ae0d940a87e7bff5778ed0
+      internalID: 112096112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_171
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1160
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef265c2eaa7595145a79304f192c24bf
+      internalID: 1701270324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_172
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1160
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59321dfb7f7ec1340abba11c443c74a8
+      internalID: 1568509170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_173
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1160
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91288adb54407e4cb06637836c694b4
+      internalID: 274705803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_174
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1160
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e273f48c3fa59504e99d35abc6887068
+      internalID: -869129569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_175
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1160
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d541b57a1b60c8446b8a75225e7e0404
+      internalID: 186184227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_176
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1160
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464cdf06d226c4e4c87bf7be4e35cbd8
+      internalID: -503999311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_177
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1096
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ce969308d6b8443a9ce7030cb0b4d9
+      internalID: 2027415044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_178
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1096
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a934d9e2fbf2a2842857bfeca20b130f
+      internalID: 803315109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_179
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1096
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc465e3b3571c404c98c73d23de49c73
+      internalID: -1722691131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_180
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1096
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a9c4c372485f2489e818469a1dea93
+      internalID: -1464662743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_181
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1032
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3492c5688ac5d2d45ba4de8df3cb7310
+      internalID: -1551474815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_182
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1032
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f10f81ef3e933f4b9a74ec031e6632d
+      internalID: 469685747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_183
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1032
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6419f3ff684594181c31ea9e91dba3
+      internalID: 337599981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_184
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1032
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fdc86e96752a347a8c29c5d495553a
+      internalID: 1386471013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_185
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1032
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c859380f4b5fa419b84f1fc4caf50e
+      internalID: 517932181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_186
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1032
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af075cfd1a856be4f96476578d8daf6e
+      internalID: -1726877424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_187
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1032
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5345b3ebdbafcb148919c27cfca86fdf
+      internalID: -1034990981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_188
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 968
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f585276a596c5784681bb34fe0206df6
+      internalID: 905779686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_189
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 968
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8fffdfcebb50b40b355eecc818a45a
+      internalID: 931108099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_190
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 968
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f13bdfa25d36c24ba0bc28008444cc8
+      internalID: -585147691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_191
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 968
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b5624cd68624b4bb1cf0415ec76121
+      internalID: -766701809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_192
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 968
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4eb240c9038864e99ea4fbbf36363d
+      internalID: -374236012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_193
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 968
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457223a8f9b5aaf4e98305c489af20f1
+      internalID: -1009066987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_194
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 968
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7506390267b6b4483c8f9ef9e5e9d0
+      internalID: -355199935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_195
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 904
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0cbde95fec0f74a9f6aea1b9735cc7
+      internalID: -1499635089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_196
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 904
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647c53d03c04efa448cf229afb6ef6b2
+      internalID: -2037390538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_197
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 904
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7474d69ff77bdb42abb7ef4ea8f741b
+      internalID: -788886379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_198
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 904
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce2fed612d59ea4598ca42164ba86fd
+      internalID: 1756168632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_199
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 904
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2789e246c1945c34ebbcd263edf3efc7
+      internalID: -626125762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_200
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 904
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400f5ec99fe916944bb69695799d1ad3
+      internalID: -72368210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_201
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 840
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b8bedf7c0282349a18aec9b02fcea6
+      internalID: -253407517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_202
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 840
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12437929992d9543ba0e044f5759c79
+      internalID: -995085185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_203
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 840
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29d512d00c8d234789d5f8ca1617076
+      internalID: 760947861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_204
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 840
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70776684523a4c041b7a12e0e6e908d4
+      internalID: -1137608571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_205
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 840
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819cb917750854d449780ad6cb3ae956
+      internalID: 70886263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_206
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 840
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8690d2c78d6a32c4a9b57fdb5f27cfda
+      internalID: 325341111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_207
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 776
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551b5a867944c3c44bed40b57750feb0
+      internalID: -274826619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_208
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 776
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce79b68c1d28a747b286999038a517b
+      internalID: 1177211462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_209
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 712
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6cd9985c2a06340968415b4458c925
+      internalID: 307598618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_210
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 712
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653bb9e85e8eb4a42b9f398f0f2ece50
+      internalID: -1113185895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_211
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 648
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3a723921cb08845ba8314f6443fd3e
+      internalID: 1280960736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_212
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 648
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8da13ee5588fe4c949e65af708cbca
+      internalID: -1180788814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_213
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 584
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80398069d28671b45b38c33dac8f2084
+      internalID: -512465682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_214
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 584
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5659cab54f338954fb920d7e764a123f
+      internalID: 1148022513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_215
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 520
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421345e097aaa39419b926e19f16eb76
+      internalID: -1002855935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_216
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 520
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d06f791340ccf442a61c1264cea8628
+      internalID: -1254482736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_217
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11b01dee17f23545868188a802ac473
+      internalID: -1955492320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_218
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ee05232c3e5fb45967196a04937831
+      internalID: 1964065940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_219
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f409205f50bc254eba597dd0cc11548
+      internalID: -606937183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_220
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b1516ddcda74c489d1fcb45e834edb
+      internalID: -871854132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_221
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6989a09ff03174eaf3db4ddd9b58d5
+      internalID: -101616790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_222
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf842034c70af442861df6bdedafa1c
+      internalID: -678250610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_223
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f8a67fb0070804788dd128335d66dc
+      internalID: 463730681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_224
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b835729514a9b4999d8f4b4f7cdcbd
+      internalID: 1043482542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_225
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa98fbf070de40b478e8a1f256781594
+      internalID: 74141515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_226
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ffcdc3e97d0574db35232f480998fb
+      internalID: -1768529265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_227
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0c54ef0ad32f340a417c67b4e6ef22
+      internalID: 252260069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_228
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1357a431b0032e34e936d8ef6db9ed87
+      internalID: -1049782602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_229
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32bbda78f0bf1944885598558d1a35f
+      internalID: 991073878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_230
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e070282a6605a488277e1a6e1ee6ef
+      internalID: -1707984361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_231
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d07c1d177239f4894c4212979d7a1a
+      internalID: -387043767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_232
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab050481ff56c04f88eaabdd9af4e02
+      internalID: 856680922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_233
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacfa58c50743234ebdf0621f2e1885d
+      internalID: -1247857618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_234
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f96868047da0854ea0a397cbd68983e
+      internalID: -581135156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_235
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24afed1768ff7c47a44e567f34dfe2b
+      internalID: 1276771757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_236
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0483183ec7d63848a18f540f79aedf5
+      internalID: -2096835960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_237
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94a8026f7f92504e8178c6be9211fda
+      internalID: -1114332844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_238
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c145aa0258dc3594d878e2b22fe962b0
+      internalID: -1536639990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_239
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258d0cbaa7e32374aa710ff839769117
+      internalID: -1632769567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_240
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8900cf6037a2b041a83e7b2055fbe4c
+      internalID: -1366392892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_241
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ce6a502a9fa004db807849c924ad46
+      internalID: -818944259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_242
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c5a3d4bac667142a089f661f57c43c
+      internalID: -1065846030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_243
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a5a41f1c71ac647bf6689cb9ba2259
+      internalID: 1761535923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_244
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2745c456f74461b4cbacc1299e32ff15
+      internalID: 1768279488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_245
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bf25106ef22e7478f211dec20fc559
+      internalID: -1589679664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_246
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9a750f4b308334d822790d23c7c4e8
+      internalID: 1551383196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_247
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d2aa7ec1957d44098bc22c58adea52
+      internalID: 133162022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_248
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562b91264c700d8419a304a8d6faf00e
+      internalID: 85593629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_249
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2358797d708794abc03a15d3508ace
+      internalID: 287150682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_250
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d899ae8baad4ae45bbad75c41b34234
+      internalID: 1368712462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_251
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a291b216772f41438466ccffcaafd16
+      internalID: -303077328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_252
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8a37ad5ee79464b916669c94815feb
+      internalID: -1835434397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_253
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5227156677c5de749ab2b5bdb2d4c9db
+      internalID: 1887677664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_254
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474550769a5169043808d36845a997da
+      internalID: -362594890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_255
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b577aa8a53aadf24283b815af5c5fdc7
+      internalID: -1718825857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_256
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c7e93ef12e80a44afb68d2c3d179c6
+      internalID: -680313484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_257
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a333c5fe8179e5d489b2728eed3ee6e0
+      internalID: -2087644948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_258
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3172bfc78a6b740aa9bc0074d1c42b
+      internalID: -994182189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_259
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927212035eb4ded4aa1b30fafdf0fbfb
+      internalID: 811059341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_260
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0182aa1ba2787e49bdbdcca7f9626cb
+      internalID: -878910005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_261
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db88da3353181d4d82e38709a01f9ad
+      internalID: -30453635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_262
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbde25ce28c42cd43b825248fb636dc9
+      internalID: 131107293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_263
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8eea004128a665469652a10de1a4354
+      internalID: -1167099219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_264
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2d93b0c12ea3345be298654f51082d
+      internalID: 761114557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_265
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75320d718ec74894cbdee1c7900fa057
+      internalID: 964384214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_266
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e5c093ebd0d094aa3adc4d316ab2de
+      internalID: -1955200976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_267
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f2cb0ac03aa5d4985f9c523c442cee
+      internalID: -324953022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_268
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e582d9dc8237f8b438fd6a6917558022
+      internalID: -765700512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_269
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3454f4633a867fc43b664cca4d4c82a2
+      internalID: 1166914383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_270
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839cad4e7835e1a429b8f5592d11f29f
+      internalID: 1344191135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_271
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3119007ed86738c45b1f876353bd3b5f
+      internalID: 1809611758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_272
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82f3ec671050644b9d90d0f9c8ecbc0
+      internalID: 1395855246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_273
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbaf2b8bde501847a4b8324251e79bc
+      internalID: 1929913758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_274
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6153daa7e49753049af31db57fc42973
+      internalID: 546998034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_275
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0018a9a2fb0ec8e4680633dc08eb5060
+      internalID: 593201969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_276
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31381d04b949aa4bb475ed89ae59705
+      internalID: 915727437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_277
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854a90b40f5b295449da0f15b6fb23b5
+      internalID: 977468711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_278
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7e27f3764671a41a9321ee7667309d
+      internalID: 1869435284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesets Gelap_279
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c94a6d2a1b95c4d9ccf5b0ec1c885f
+      internalID: -1536425918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +5999,287 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tilesets Gelap_0: 292937826
+      Tilesets Gelap_1: 1171621666
+      Tilesets Gelap_10: -1916935869
+      Tilesets Gelap_100: -318474839
+      Tilesets Gelap_101: -456239159
+      Tilesets Gelap_102: 1569515026
+      Tilesets Gelap_103: -1954333508
+      Tilesets Gelap_104: -6296754
+      Tilesets Gelap_105: -741554820
+      Tilesets Gelap_106: -2102692702
+      Tilesets Gelap_107: 1864835825
+      Tilesets Gelap_108: -1575962752
+      Tilesets Gelap_109: -1672907320
+      Tilesets Gelap_11: -20104628
+      Tilesets Gelap_110: 632200851
+      Tilesets Gelap_111: -1207809466
+      Tilesets Gelap_112: -429107607
+      Tilesets Gelap_113: 1741078613
+      Tilesets Gelap_114: 1162688671
+      Tilesets Gelap_115: 661602855
+      Tilesets Gelap_116: 1001813808
+      Tilesets Gelap_117: 10224025
+      Tilesets Gelap_118: 1896157064
+      Tilesets Gelap_119: 1702901087
+      Tilesets Gelap_12: -1217360115
+      Tilesets Gelap_120: -27899081
+      Tilesets Gelap_121: -454785934
+      Tilesets Gelap_122: -2053047878
+      Tilesets Gelap_123: 862709639
+      Tilesets Gelap_124: 421599797
+      Tilesets Gelap_125: 376551321
+      Tilesets Gelap_126: 1207022856
+      Tilesets Gelap_127: -1809979076
+      Tilesets Gelap_128: -61764751
+      Tilesets Gelap_129: 343895113
+      Tilesets Gelap_13: -813017667
+      Tilesets Gelap_130: -651512886
+      Tilesets Gelap_131: 1877549514
+      Tilesets Gelap_132: -1054030089
+      Tilesets Gelap_133: 1572195445
+      Tilesets Gelap_134: -479653623
+      Tilesets Gelap_135: -1790518401
+      Tilesets Gelap_136: -2082886700
+      Tilesets Gelap_137: -1590865514
+      Tilesets Gelap_138: -1037714793
+      Tilesets Gelap_139: -371821213
+      Tilesets Gelap_14: 1542497767
+      Tilesets Gelap_140: 1056988055
+      Tilesets Gelap_141: 1365013770
+      Tilesets Gelap_142: 1299334182
+      Tilesets Gelap_143: 1246777999
+      Tilesets Gelap_144: 810653338
+      Tilesets Gelap_145: -1339368986
+      Tilesets Gelap_146: 1941836043
+      Tilesets Gelap_147: 1186280341
+      Tilesets Gelap_148: -1453947485
+      Tilesets Gelap_149: 1582301644
+      Tilesets Gelap_15: -955574283
+      Tilesets Gelap_150: 1293884330
+      Tilesets Gelap_151: 870835562
+      Tilesets Gelap_152: 1985765786
+      Tilesets Gelap_153: 1641910066
+      Tilesets Gelap_154: -1845275848
+      Tilesets Gelap_155: 578996273
+      Tilesets Gelap_156: -338733269
+      Tilesets Gelap_157: 1683324111
+      Tilesets Gelap_158: 157937406
+      Tilesets Gelap_159: -837974004
+      Tilesets Gelap_16: 1621480883
+      Tilesets Gelap_160: 1080265400
+      Tilesets Gelap_161: 1910406764
+      Tilesets Gelap_162: 1092183565
+      Tilesets Gelap_163: 546233842
+      Tilesets Gelap_164: -1915518070
+      Tilesets Gelap_165: -1879501376
+      Tilesets Gelap_166: 320904748
+      Tilesets Gelap_167: 27813176
+      Tilesets Gelap_168: -308978978
+      Tilesets Gelap_169: -573545834
+      Tilesets Gelap_17: -960376001
+      Tilesets Gelap_170: 112096112
+      Tilesets Gelap_171: 1701270324
+      Tilesets Gelap_172: 1568509170
+      Tilesets Gelap_173: 274705803
+      Tilesets Gelap_174: -869129569
+      Tilesets Gelap_175: 186184227
+      Tilesets Gelap_176: -503999311
+      Tilesets Gelap_177: 2027415044
+      Tilesets Gelap_178: 803315109
+      Tilesets Gelap_179: -1722691131
+      Tilesets Gelap_18: 9623052
+      Tilesets Gelap_180: -1464662743
+      Tilesets Gelap_181: -1551474815
+      Tilesets Gelap_182: 469685747
+      Tilesets Gelap_183: 337599981
+      Tilesets Gelap_184: 1386471013
+      Tilesets Gelap_185: 517932181
+      Tilesets Gelap_186: -1726877424
+      Tilesets Gelap_187: -1034990981
+      Tilesets Gelap_188: 905779686
+      Tilesets Gelap_189: 931108099
+      Tilesets Gelap_19: -1822247017
+      Tilesets Gelap_190: -585147691
+      Tilesets Gelap_191: -766701809
+      Tilesets Gelap_192: -374236012
+      Tilesets Gelap_193: -1009066987
+      Tilesets Gelap_194: -355199935
+      Tilesets Gelap_195: -1499635089
+      Tilesets Gelap_196: -2037390538
+      Tilesets Gelap_197: -788886379
+      Tilesets Gelap_198: 1756168632
+      Tilesets Gelap_199: -626125762
+      Tilesets Gelap_2: -2057823040
+      Tilesets Gelap_20: 377210745
+      Tilesets Gelap_200: -72368210
+      Tilesets Gelap_201: -253407517
+      Tilesets Gelap_202: -995085185
+      Tilesets Gelap_203: 760947861
+      Tilesets Gelap_204: -1137608571
+      Tilesets Gelap_205: 70886263
+      Tilesets Gelap_206: 325341111
+      Tilesets Gelap_207: -274826619
+      Tilesets Gelap_208: 1177211462
+      Tilesets Gelap_209: 307598618
+      Tilesets Gelap_21: -1041269578
+      Tilesets Gelap_210: -1113185895
+      Tilesets Gelap_211: 1280960736
+      Tilesets Gelap_212: -1180788814
+      Tilesets Gelap_213: -512465682
+      Tilesets Gelap_214: 1148022513
+      Tilesets Gelap_215: -1002855935
+      Tilesets Gelap_216: -1254482736
+      Tilesets Gelap_217: -1955492320
+      Tilesets Gelap_218: 1964065940
+      Tilesets Gelap_219: -606937183
+      Tilesets Gelap_22: -1470501779
+      Tilesets Gelap_220: -871854132
+      Tilesets Gelap_221: -101616790
+      Tilesets Gelap_222: -678250610
+      Tilesets Gelap_223: 463730681
+      Tilesets Gelap_224: 1043482542
+      Tilesets Gelap_225: 74141515
+      Tilesets Gelap_226: -1768529265
+      Tilesets Gelap_227: 252260069
+      Tilesets Gelap_228: -1049782602
+      Tilesets Gelap_229: 991073878
+      Tilesets Gelap_23: -24090406
+      Tilesets Gelap_230: -1707984361
+      Tilesets Gelap_231: -387043767
+      Tilesets Gelap_232: 856680922
+      Tilesets Gelap_233: -1247857618
+      Tilesets Gelap_234: -581135156
+      Tilesets Gelap_235: 1276771757
+      Tilesets Gelap_236: -2096835960
+      Tilesets Gelap_237: -1114332844
+      Tilesets Gelap_238: -1536639990
+      Tilesets Gelap_239: -1632769567
+      Tilesets Gelap_24: -919341042
+      Tilesets Gelap_240: -1366392892
+      Tilesets Gelap_241: -818944259
+      Tilesets Gelap_242: -1065846030
+      Tilesets Gelap_243: 1761535923
+      Tilesets Gelap_244: 1768279488
+      Tilesets Gelap_245: -1589679664
+      Tilesets Gelap_246: 1551383196
+      Tilesets Gelap_247: 133162022
+      Tilesets Gelap_248: 85593629
+      Tilesets Gelap_249: 287150682
+      Tilesets Gelap_25: -826578571
+      Tilesets Gelap_250: 1368712462
+      Tilesets Gelap_251: -303077328
+      Tilesets Gelap_252: -1835434397
+      Tilesets Gelap_253: 1887677664
+      Tilesets Gelap_254: -362594890
+      Tilesets Gelap_255: -1718825857
+      Tilesets Gelap_256: -680313484
+      Tilesets Gelap_257: -2087644948
+      Tilesets Gelap_258: -994182189
+      Tilesets Gelap_259: 811059341
+      Tilesets Gelap_26: 1349598759
+      Tilesets Gelap_260: -878910005
+      Tilesets Gelap_261: -30453635
+      Tilesets Gelap_262: 131107293
+      Tilesets Gelap_263: -1167099219
+      Tilesets Gelap_264: 761114557
+      Tilesets Gelap_265: 964384214
+      Tilesets Gelap_266: -1955200976
+      Tilesets Gelap_267: -324953022
+      Tilesets Gelap_268: -765700512
+      Tilesets Gelap_269: 1166914383
+      Tilesets Gelap_27: 912152384
+      Tilesets Gelap_270: 1344191135
+      Tilesets Gelap_271: 1809611758
+      Tilesets Gelap_272: 1395855246
+      Tilesets Gelap_273: 1929913758
+      Tilesets Gelap_274: 546998034
+      Tilesets Gelap_275: 593201969
+      Tilesets Gelap_276: 915727437
+      Tilesets Gelap_277: 977468711
+      Tilesets Gelap_278: 1869435284
+      Tilesets Gelap_279: -1536425918
+      Tilesets Gelap_28: -490517143
+      Tilesets Gelap_29: 1042914563
+      Tilesets Gelap_3: 1446704929
+      Tilesets Gelap_30: -1510147934
+      Tilesets Gelap_31: 758939370
+      Tilesets Gelap_32: 1508325378
+      Tilesets Gelap_33: 1103535004
+      Tilesets Gelap_34: -1429308192
+      Tilesets Gelap_35: 933412202
+      Tilesets Gelap_36: 654453224
+      Tilesets Gelap_37: -1833471553
+      Tilesets Gelap_38: 1086560867
+      Tilesets Gelap_39: -837349818
+      Tilesets Gelap_4: -763774487
+      Tilesets Gelap_40: -1813061233
+      Tilesets Gelap_41: -95417300
+      Tilesets Gelap_42: -1559419409
+      Tilesets Gelap_43: 87794575
+      Tilesets Gelap_44: 51997416
+      Tilesets Gelap_45: -1483410430
+      Tilesets Gelap_46: 8453015
+      Tilesets Gelap_47: 714842119
+      Tilesets Gelap_48: -298313807
+      Tilesets Gelap_49: 1368531664
+      Tilesets Gelap_5: -922804726
+      Tilesets Gelap_50: 2145435744
+      Tilesets Gelap_51: -1762497080
+      Tilesets Gelap_52: -1793025385
+      Tilesets Gelap_53: 1831294060
+      Tilesets Gelap_54: -406797017
+      Tilesets Gelap_55: -1580637582
+      Tilesets Gelap_56: -1924602428
+      Tilesets Gelap_57: -1079786139
+      Tilesets Gelap_58: -2141753604
+      Tilesets Gelap_59: 1920933553
+      Tilesets Gelap_6: 651281593
+      Tilesets Gelap_60: -604140663
+      Tilesets Gelap_61: -634656349
+      Tilesets Gelap_62: 1894534750
+      Tilesets Gelap_63: -1567731071
+      Tilesets Gelap_64: 143150816
+      Tilesets Gelap_65: -1642778896
+      Tilesets Gelap_66: 488344866
+      Tilesets Gelap_67: 1238220664
+      Tilesets Gelap_68: -2145428375
+      Tilesets Gelap_69: -479166158
+      Tilesets Gelap_7: 766640840
+      Tilesets Gelap_70: 465016243
+      Tilesets Gelap_71: -921507553
+      Tilesets Gelap_72: 490706192
+      Tilesets Gelap_73: -1083405514
+      Tilesets Gelap_74: -702264533
+      Tilesets Gelap_75: -1295006681
+      Tilesets Gelap_76: -498420542
+      Tilesets Gelap_77: 262020476
+      Tilesets Gelap_78: 1357471507
+      Tilesets Gelap_79: -1489901418
+      Tilesets Gelap_8: -1687652376
+      Tilesets Gelap_80: -1420464375
+      Tilesets Gelap_81: -1414335292
+      Tilesets Gelap_82: 1361918796
+      Tilesets Gelap_83: 1810968291
+      Tilesets Gelap_84: -1562498899
+      Tilesets Gelap_85: -644204175
+      Tilesets Gelap_86: -1060390805
+      Tilesets Gelap_87: 76688765
+      Tilesets Gelap_88: -16456954
+      Tilesets Gelap_89: 389592736
+      Tilesets Gelap_9: 80068521
+      Tilesets Gelap_90: -993099613
+      Tilesets Gelap_91: 2089145553
+      Tilesets Gelap_92: 390870577
+      Tilesets Gelap_93: 204057824
+      Tilesets Gelap_94: -966096165
+      Tilesets Gelap_95: 1622000060
+      Tilesets Gelap_96: -698574800
+      Tilesets Gelap_97: 618256335
+      Tilesets Gelap_98: 1446697834
+      Tilesets Gelap_99: 24277924
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

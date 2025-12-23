@@ -1,0 +1,4153 @@
+fileFormatVersion: 2
+guid: 565843a070b6632468360291d72512c1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tanah1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e676d2ff1ee9b9841acd14eeffc70652
+      internalID: 1578667229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f455855162e2a4c89cecb7b9fc39b0
+      internalID: 1337986220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde4cabb7f8cd2a4bbef0562ec28a12d
+      internalID: -1341036262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a695cc790645914a9e5c0017dcb0e89
+      internalID: -1419134724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bad8cd6b401df4e8135fcbe2cc8e09
+      internalID: 959719681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1d28e67927ec546ac91705d3bfca83
+      internalID: 977560984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63414d49b5bd6924eaf040656d7da5c4
+      internalID: -1586800107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315167a355d634641a0505f45b98a1da
+      internalID: -1197510294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8724e9527292b498fc47786a23257c
+      internalID: 408611099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b780cd107eff8d647a051accd9182762
+      internalID: 2069238606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12eb2ecc6366814cb846a55f6846fc4
+      internalID: -940510272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824d5292df7e55e4b91a85c2ee81eb99
+      internalID: 379331980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af13f9a273227174f98f2db1dfa53313
+      internalID: 1123406523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46560c1cd95391742991503969ba5dc8
+      internalID: 407592365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393aec0801c7e47498ee5d577ebc7397
+      internalID: 707296749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f9fdc4684f6284b9c07101d2c643b8
+      internalID: -1514649001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3535e8de5640fcb439cde2ba4be32f92
+      internalID: 1168565969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_17
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5da10f6ff752c4194d06af26b6cc15
+      internalID: -1268733690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_18
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74072fe212045a8499bea9e39f118873
+      internalID: 361764886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_19
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c84d27dae7d7341a069e17afff0868
+      internalID: 376460741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64273aa0bf9713488224084aabe78d4
+      internalID: -1833016487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_21
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b02acc272f16744a94c22815d170d9c
+      internalID: -380162309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_22
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49d5912d2e84ee428b6223c37c8ff89
+      internalID: 93659959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_23
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df52d9ea2ce83d0459824d7177b3e15c
+      internalID: -1190241483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_24
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6782287cbf023cc4f8eca2e54f7f4445
+      internalID: 1397762050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_25
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bbb0053b275be4f9dd7fee04c18fae
+      internalID: 1611932508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_26
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722c5f5039c0d2443865cf3606ff9edd
+      internalID: 1125574703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_27
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60e73a5c03600043b3db2b29e17fd5d
+      internalID: 803644921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_28
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f029bea523cc6c040ada6d317896e7e2
+      internalID: 1123339774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d90b85c38228f4180e7b2b1ab9ea7e
+      internalID: 492405894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdff176f9a2c5604a9a37fc80d2c9a19
+      internalID: 520065540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c30daef851df2c4fb9c5a72fc2415bb
+      internalID: -1576680172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67503514691b3d547993d44aaf995ae2
+      internalID: -1379504599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c76692cdaefe74791e9c582ced44af
+      internalID: 327368425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c892b3c7027bac24da3d5fe045c736cc
+      internalID: 429099769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a3fdabaa1cef6468b4487f89e1f4e4
+      internalID: 791589575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_36
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff3bb02aa8efb84d9f0945a9fb93431
+      internalID: -290370241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd20de9227e42cf42aa6e36eac13934e
+      internalID: 1393061598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_38
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf1c8cb1d2c0144c84a9ca03ac6c6b4
+      internalID: -1825130761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_39
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e279ffaf0410ea44b6e375adcd83963
+      internalID: 1838997734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_40
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e7c139ddc4b1249b4ef706f632c4f6
+      internalID: 263899037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_41
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ef4be4d6874f146aaa4d4de2ff08c8
+      internalID: -1687777499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_42
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc89a873c45f20458e36896b6384497
+      internalID: -1571954331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_43
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dca436750db3e4bb5e65d0cab04ac0
+      internalID: -105014122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_44
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7df4d3fc93f46c4684064dba444ee6c
+      internalID: -1079867820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_45
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd314d8ed9c82e64e8f7c3db903089b2
+      internalID: -1540930850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_46
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab21bd0e5e3bc57469696887fa253898
+      internalID: 1395882166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_47
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62115efb470be954c97b95d1a3a37907
+      internalID: -505117492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_48
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7ed34fcfceec344b43a04a451634f9
+      internalID: -58692749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_49
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dc815acb1c66c4e926d3cb0c87b273
+      internalID: 924044121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_50
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b9337fa6b6f714da3bd8647f0628ba
+      internalID: 1879971703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_51
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6241658ab87e0404b81053ce3f575c88
+      internalID: -1497262895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_52
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6728d44ddc874ae4b88bd143033e54db
+      internalID: -2012055588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_53
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb1bc73fa222fb439c1c1a89a5acfc9
+      internalID: -207044824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_54
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b5e90e93f758848a07ab0eb468b029
+      internalID: -546413662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_55
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bac93aebd4ed63448cde1ddadd2d637
+      internalID: -1109558625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_56
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ca71c2d3de7fe4eb964be807b1cdd1
+      internalID: -1328045505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_57
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40d0e385701633419d2156d4bfc0e70
+      internalID: -475127017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d960f5971ff665d4e94641b34f5df8b4
+      internalID: 114444042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c401c41004aea2c46a5072ab7c2bf57b
+      internalID: -1523729147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401a59cd8c6b7d344b7a82eed6063538
+      internalID: 1282243189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b8add97ea024b488972af5c8fec6ed
+      internalID: -34734704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_62
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623fd645b2ba40040ae159eafa5617dd
+      internalID: -81385086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_63
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7dce7eaf3b06240b0bbc21aa022636
+      internalID: -963301327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_64
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a582b4f2f549747bcb2ccc62dcdc04
+      internalID: -1861569807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_65
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78da09c11c196542aab8bca33d6228c
+      internalID: 1017393099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_66
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384abe416bca0a6479a5884866a7ff98
+      internalID: -1065008732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_67
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d7ec4f7b9e9684eab68fa784ed934a
+      internalID: -475631291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727cf9e4e4c6022468ee18e65c8df169
+      internalID: 1011521038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_69
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed26f93e56bd66f4bac02bed8e6c2473
+      internalID: -1181045228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_70
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdcd33e578a0474ba75b17582be03fc
+      internalID: -891106755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_71
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcde9794ab4478429d666f5aab840c0
+      internalID: -1953175144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_72
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a086b2652bfd842bcefcb68f08b345
+      internalID: -1085313695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_73
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50f37b92e7e2f04a84827770d8d5d2f
+      internalID: 388906396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_74
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc9acc7a8400894e94108e3fdb8af16
+      internalID: -863873998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_75
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351836c0f3c5d9645949c8a7e1ead423
+      internalID: -2030817593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_76
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c8fd4ac84a31a4eb0b4c556309eb39
+      internalID: -1664102298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_77
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4d21c8822f07c4dae8c0956a49a5e9
+      internalID: 394678760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_78
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b841f2613fa99445940229e711241dd
+      internalID: 432040437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_79
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57470d413fd1fe8478072359e20d1409
+      internalID: 1422624215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_80
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f74e3679ddc6144bbde9d9771829c2
+      internalID: 1073127422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_81
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e9c8eb2904e7a459645f52539bde3f
+      internalID: -2014542017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_82
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529aa1040270c2644bfeb265aaa2f795
+      internalID: 1214419727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_83
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbae1462001e604d9542c52fcb3e060
+      internalID: 2087171431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_84
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b34ee323e535c749b9072ca1ad030b5
+      internalID: 1292884641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_85
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2dd6475b85fa943b66aa35c78599c7
+      internalID: -1885133050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_86
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb89e7a65046847488079f66d23418dc
+      internalID: 888805087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ce9c523b6652045879a05848a4c738
+      internalID: -2010612624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f9c1018f71c1448945758125d9d751
+      internalID: 1220923529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbece333e7c59d47b3be80afee4723e
+      internalID: 1270034990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f5adabebcde9047b7129f0c2ea6738
+      internalID: -565021065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47672c5df8d13cc4c8de1b092640d296
+      internalID: -157240859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081eca5466d08ba40956249818598685
+      internalID: -1900079449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0246bc9a6c1659d47a818091f4525240
+      internalID: 1917391674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7d29e0326472340ada96a943fd2c4d
+      internalID: -1361901877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6082711bb179344be7d2369dffac39
+      internalID: -1147999944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_96
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580aa8fee0aab724fa65e56815ac1d1f
+      internalID: 2113164909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_97
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ca8787d0b65334eb737cb1742103fd
+      internalID: -1258595813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_98
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bfe51f2a7ff744f9a854301998be54
+      internalID: 1785065586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_99
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aecf4c30f94fa8419e3b956facb548c
+      internalID: 1309216351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_100
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d878031ef86a5846a3637015938557c
+      internalID: 1745914338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_101
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff3e9d3959bbec479fbc3732278ffae
+      internalID: -1309174139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_102
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9845db27e46b3314e9648ba852ffb89c
+      internalID: 2112166088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_103
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de743b48dc827b4183b54240250cb11
+      internalID: -1654277856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_104
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140fe9b201d71244ab3d89ae563e9366
+      internalID: -1641087038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_105
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0f40f29ca2b8b4686d67fbabf21378
+      internalID: 1685284809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_106
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d7416639d31dc42ba9c46412c29adb
+      internalID: -2039112874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_107
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5384f803d32b83844b9dbd288a9df02b
+      internalID: -1498145632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_108
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359166386b229204280dc695f2b00232
+      internalID: 1763874924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_109
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2487fbd812fed6439fca939238e6064
+      internalID: 960904851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_110
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4074ce6c59a0f3a49bcda281409c01a2
+      internalID: -657798656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_111
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6920ec0ecfb27184bae3a69e96392605
+      internalID: -553519884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_112
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d989f884d97d8e846900ccdb1375b9be
+      internalID: -179889365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_113
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e1f5da9c011344c888cb09af8ebb02
+      internalID: -1142610483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_114
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7200519ecc0d3144863d9e531661a1a
+      internalID: -288302193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_115
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b65f7b31c6e834db5c88e8bf7eab5c
+      internalID: 1111324973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_116
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5953bb824417e4197de7a3d491456b
+      internalID: -482865722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_117
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466f3cc0ae1fb4641b0f0269b26a2706
+      internalID: -411068992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49db37cba8f7d5f4c94adb948a2d1da7
+      internalID: 1755962762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_119
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c57a37a20b4c74293075ee7e648fc3
+      internalID: -837695407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_120
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d46464a36ae1d4d9a28f3d678f0379
+      internalID: 1123338884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_121
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f84e3c42affa9e4893447d5c670560c
+      internalID: -720286478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_122
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952ac8ad2bf81cb428acda4b14c885ac
+      internalID: -1417273996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_123
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cf164c4440a9c40856d30fc0119543
+      internalID: 198250637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_124
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d255940f8f76bc4b85c4230a7cb62b5
+      internalID: -1123321192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_125
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23427c8af6e5afd4cb5f19eaeda4f37b
+      internalID: 1174466727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_126
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212a3cf460cd4234c85105cd6eb050a1
+      internalID: -728517802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_127
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53cc4a2b63a3f64caa500809eac15b0
+      internalID: 1022238620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_128
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1791e040c846a408b47fde5a5d3d5d
+      internalID: -930365306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_129
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5a262164cdcb44d964ef63ae3835ea
+      internalID: -1413758120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_130
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e15cec80f5e3e40948afc949a0b5df
+      internalID: 1496420679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_131
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fce59a7876c3f142837a96dde2646e0
+      internalID: -1750548292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_132
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05bddcd887110c499ebe4ddd0edd29f
+      internalID: -1278699607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_133
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207e9953f386b31448b216f17c734563
+      internalID: -1138960154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_134
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd87632f74273a044b3afc64fb34d0f7
+      internalID: -1018192235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_135
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf8f2d280b4872409d49d0742fc3786
+      internalID: -627977514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_136
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72ebce1532bc5949830a187d1144366
+      internalID: -1973821125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_137
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374d8600658710949a2977a0f57238ea
+      internalID: 1050722187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_138
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a03781676aec224c86b966c4ecdba40
+      internalID: -1662795374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_139
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d877e2d5bddea04f975d7c02d0a1c3f
+      internalID: -2068968788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_140
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b72e57bf468be4fa74c3b73fb2a88e
+      internalID: -1002757228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_141
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4c9c060928e1746a83dea4f714017c
+      internalID: 2079543135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_142
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e872280348aaf4f9287f559bfb4f08
+      internalID: -2097186085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_143
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcac38a4fcfb724a9b52ca9cfc62227
+      internalID: -163604789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_144
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad11df4a252be404bb255131902e228a
+      internalID: 1220270390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_145
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4102e1358679e09498be319d309089d4
+      internalID: 692250354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_146
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a2b3ffc8c8a314fa7b25461a31be87
+      internalID: -980812448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_147
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59c226f52ea8f140954532342daacc9
+      internalID: 1009081871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_148
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5698824a8236f54aa3a1e5d332b0436
+      internalID: 1815293389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_149
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3098588f382fa3544af3f5e1e7b1e1f0
+      internalID: 1388169678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_150
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ebf388d38df0c478dfa462ee661ba5
+      internalID: -1626424709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_151
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0acf3a81845f834d998b3383772690f
+      internalID: -869229651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_152
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f2156b1fb18694f90b03b6ab99c481
+      internalID: 1542771964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_153
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436438edaee79214d896edbe11810fd7
+      internalID: 1466590126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_154
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52ae6ac7d787d442a06921f5455b1bd
+      internalID: 2048908385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_155
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf4e6dd5b551c045a044464f054b9cc
+      internalID: -1901850431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_156
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a196b0950a27e8647b067eccabc34ca4
+      internalID: 289023715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_157
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3d756db2c379149a98a2d61a170cb0
+      internalID: -237218282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_158
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e58b4c80bdac24d9957e03e2924091
+      internalID: -1390909254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_159
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1812459771a234fa83ddcd832f6b45
+      internalID: 750802211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_160
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de72f2dc85b24504da38b23809ce7863
+      internalID: 287053408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_161
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ded88d5c4029744a7c12232f5869f8
+      internalID: 442479972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_162
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4447e326210361d46b2e3f2488a57eed
+      internalID: -862476752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_163
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701460521e9838a4d85d48c777a28d84
+      internalID: 714157188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_164
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4a803ec78b4744aa0957ec164755ee
+      internalID: -1107871838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_165
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9ea7c973260884faf59421f33d022c
+      internalID: -1180556966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_166
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac54f7b3720dc21419a1c62f48ddf2ca
+      internalID: 1885242356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_167
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec6c83d2df51fd4d9c4f65df7c5d533
+      internalID: 1850077271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_168
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739437e19e0ad5b46a57a8d3ce4a02f9
+      internalID: 1728552192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_169
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fc24d8f33d248439e6385a1ec12cdc
+      internalID: -1951283618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_170
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb5185ef298e9242aa7a045e2f2b38c
+      internalID: -1555716357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_171
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bf408ba2d3a934abdb6d9b6e0d629d
+      internalID: -908325110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_172
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912344ca47c232c4290ee1ec710ba460
+      internalID: 1689471156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_173
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab5b58a88e76084c82b05844a8ca4b1
+      internalID: 2086590011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_174
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e44ebe425402e41a732edb79114da8
+      internalID: -2002789696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_175
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a9bc18fa0708b4d83e9f11b0a9bdd3
+      internalID: 1952927700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_176
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236dfd244b8ef4343986af67be088360
+      internalID: -599983270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_177
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b83c3f5908176e4890a4c23596a340b
+      internalID: 1018956552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_178
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22dc613a0a6ea4d4b96bc8c5591153b7
+      internalID: -551729888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_179
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafc2927d426adc4ea3501c543862060
+      internalID: -1124287316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_180
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50f7ace27cc55c4a90043b844267752
+      internalID: 604107699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_181
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9c0e7f94909a64c9b2ac1a0f21e1e8
+      internalID: -439437267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah1_182
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caec1a51498aa9e488f048126904be63
+      internalID: -1724794090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tanah1_0: 1578667229
+      tanah1_1: 1337986220
+      tanah1_10: -940510272
+      tanah1_100: 1745914338
+      tanah1_101: -1309174139
+      tanah1_102: 2112166088
+      tanah1_103: -1654277856
+      tanah1_104: -1641087038
+      tanah1_105: 1685284809
+      tanah1_106: -2039112874
+      tanah1_107: -1498145632
+      tanah1_108: 1763874924
+      tanah1_109: 960904851
+      tanah1_11: 379331980
+      tanah1_110: -657798656
+      tanah1_111: -553519884
+      tanah1_112: -179889365
+      tanah1_113: -1142610483
+      tanah1_114: -288302193
+      tanah1_115: 1111324973
+      tanah1_116: -482865722
+      tanah1_117: -411068992
+      tanah1_118: 1755962762
+      tanah1_119: -837695407
+      tanah1_12: 1123406523
+      tanah1_120: 1123338884
+      tanah1_121: -720286478
+      tanah1_122: -1417273996
+      tanah1_123: 198250637
+      tanah1_124: -1123321192
+      tanah1_125: 1174466727
+      tanah1_126: -728517802
+      tanah1_127: 1022238620
+      tanah1_128: -930365306
+      tanah1_129: -1413758120
+      tanah1_13: 407592365
+      tanah1_130: 1496420679
+      tanah1_131: -1750548292
+      tanah1_132: -1278699607
+      tanah1_133: -1138960154
+      tanah1_134: -1018192235
+      tanah1_135: -627977514
+      tanah1_136: -1973821125
+      tanah1_137: 1050722187
+      tanah1_138: -1662795374
+      tanah1_139: -2068968788
+      tanah1_14: 707296749
+      tanah1_140: -1002757228
+      tanah1_141: 2079543135
+      tanah1_142: -2097186085
+      tanah1_143: -163604789
+      tanah1_144: 1220270390
+      tanah1_145: 692250354
+      tanah1_146: -980812448
+      tanah1_147: 1009081871
+      tanah1_148: 1815293389
+      tanah1_149: 1388169678
+      tanah1_15: -1514649001
+      tanah1_150: -1626424709
+      tanah1_151: -869229651
+      tanah1_152: 1542771964
+      tanah1_153: 1466590126
+      tanah1_154: 2048908385
+      tanah1_155: -1901850431
+      tanah1_156: 289023715
+      tanah1_157: -237218282
+      tanah1_158: -1390909254
+      tanah1_159: 750802211
+      tanah1_16: 1168565969
+      tanah1_160: 287053408
+      tanah1_161: 442479972
+      tanah1_162: -862476752
+      tanah1_163: 714157188
+      tanah1_164: -1107871838
+      tanah1_165: -1180556966
+      tanah1_166: 1885242356
+      tanah1_167: 1850077271
+      tanah1_168: 1728552192
+      tanah1_169: -1951283618
+      tanah1_17: -1268733690
+      tanah1_170: -1555716357
+      tanah1_171: -908325110
+      tanah1_172: 1689471156
+      tanah1_173: 2086590011
+      tanah1_174: -2002789696
+      tanah1_175: 1952927700
+      tanah1_176: -599983270
+      tanah1_177: 1018956552
+      tanah1_178: -551729888
+      tanah1_179: -1124287316
+      tanah1_18: 361764886
+      tanah1_180: 604107699
+      tanah1_181: -439437267
+      tanah1_182: -1724794090
+      tanah1_19: 376460741
+      tanah1_2: -1341036262
+      tanah1_20: -1833016487
+      tanah1_21: -380162309
+      tanah1_22: 93659959
+      tanah1_23: -1190241483
+      tanah1_24: 1397762050
+      tanah1_25: 1611932508
+      tanah1_26: 1125574703
+      tanah1_27: 803644921
+      tanah1_28: 1123339774
+      tanah1_29: 492405894
+      tanah1_3: -1419134724
+      tanah1_30: 520065540
+      tanah1_31: -1576680172
+      tanah1_32: -1379504599
+      tanah1_33: 327368425
+      tanah1_34: 429099769
+      tanah1_35: 791589575
+      tanah1_36: -290370241
+      tanah1_37: 1393061598
+      tanah1_38: -1825130761
+      tanah1_39: 1838997734
+      tanah1_4: 959719681
+      tanah1_40: 263899037
+      tanah1_41: -1687777499
+      tanah1_42: -1571954331
+      tanah1_43: -105014122
+      tanah1_44: -1079867820
+      tanah1_45: -1540930850
+      tanah1_46: 1395882166
+      tanah1_47: -505117492
+      tanah1_48: -58692749
+      tanah1_49: 924044121
+      tanah1_5: 977560984
+      tanah1_50: 1879971703
+      tanah1_51: -1497262895
+      tanah1_52: -2012055588
+      tanah1_53: -207044824
+      tanah1_54: -546413662
+      tanah1_55: -1109558625
+      tanah1_56: -1328045505
+      tanah1_57: -475127017
+      tanah1_58: 114444042
+      tanah1_59: -1523729147
+      tanah1_6: -1586800107
+      tanah1_60: 1282243189
+      tanah1_61: -34734704
+      tanah1_62: -81385086
+      tanah1_63: -963301327
+      tanah1_64: -1861569807
+      tanah1_65: 1017393099
+      tanah1_66: -1065008732
+      tanah1_67: -475631291
+      tanah1_68: 1011521038
+      tanah1_69: -1181045228
+      tanah1_7: -1197510294
+      tanah1_70: -891106755
+      tanah1_71: -1953175144
+      tanah1_72: -1085313695
+      tanah1_73: 388906396
+      tanah1_74: -863873998
+      tanah1_75: -2030817593
+      tanah1_76: -1664102298
+      tanah1_77: 394678760
+      tanah1_78: 432040437
+      tanah1_79: 1422624215
+      tanah1_8: 408611099
+      tanah1_80: 1073127422
+      tanah1_81: -2014542017
+      tanah1_82: 1214419727
+      tanah1_83: 2087171431
+      tanah1_84: 1292884641
+      tanah1_85: -1885133050
+      tanah1_86: 888805087
+      tanah1_87: -2010612624
+      tanah1_88: 1220923529
+      tanah1_89: 1270034990
+      tanah1_9: 2069238606
+      tanah1_90: -565021065
+      tanah1_91: -157240859
+      tanah1_92: -1900079449
+      tanah1_93: 1917391674
+      tanah1_94: -1361901877
+      tanah1_95: -1147999944
+      tanah1_96: 2113164909
+      tanah1_97: -1258595813
+      tanah1_98: 1785065586
+      tanah1_99: 1309216351
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

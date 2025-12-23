@@ -1,0 +1,4219 @@
+fileFormatVersion: 2
+guid: ca868b3948578f44fb6c8fbac87d550e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a095cdc2b1da1a4e8857febc7437af2
+      internalID: 704602344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3074cb0eaa83ed24fa28bf2fde864e60
+      internalID: -244871133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680d0046d697abe45998aa178171a42b
+      internalID: 2073432370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0177c9d4deef8e428f08f7dfa9306e7
+      internalID: 661882042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763283576f67da04ca2b6bc8de524634
+      internalID: -1377663124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c254e4a3e39104dbdfee074fd282b7
+      internalID: -335460195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36549de9dc9937488d9dc5d255bd6ec
+      internalID: -285799127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15eebb4a55214544bbe3875abef6a508
+      internalID: -977677540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d35dac8f02ccf4abdcdf0d2eedd07b
+      internalID: -2146476972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8aa9841d6a1b7459e5880a7c5e9d39
+      internalID: -131530142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916be6458a1b0e84ab8c5cd4ef59c5d8
+      internalID: -1430451607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce53d3b4bd3f3b44891232166b4095b7
+      internalID: -1271500623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e90ae8fcf510c64891a7c1c9d6d56d1
+      internalID: -1684880808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a922fda1c75c1724e9d1e13263ccab53
+      internalID: 253014686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cd8bee4da7e4d4e829472c33b44ff8
+      internalID: -1558835985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1346e9639343c4da883f96fd36e33c
+      internalID: 587442872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79551c271e4f2e940b4b7343e8fa4ac8
+      internalID: 776630468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d7c9997e98e1a4cae431168c56d108
+      internalID: 581411214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b5360b9cc83434ab0561cf36a54c9f
+      internalID: 1948303873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606883437f8f3084aa16312a4dd84db1
+      internalID: 1038800727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df551711295738d4595ceb74785f8fe0
+      internalID: 1915410197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68d14f923ada0c4f96f27087eb016b4
+      internalID: 136683017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e94510b53d70d40b6d5f8d076f8b72
+      internalID: 1513581767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6342ea1ca600947b7f9879f29ecdc3
+      internalID: 1236890577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_24
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2acf459819934042919743de2dca5dc
+      internalID: 763030842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_25
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70609676fe3d4904482c5c774f4e3613
+      internalID: 1555746388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_26
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f331190a99e144d916ca70df4e7f4c
+      internalID: -1642777105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_27
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d120070d1d1b5764d90535d3dad4c024
+      internalID: -1939742276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_28
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a04e529f6ed104ba22c939e53d0e2a
+      internalID: -1781270434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_29
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8694de719cdaf7e498a9f36bb49a2a39
+      internalID: -784175873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_30
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7926e2c04c66542b6b81679af4792b
+      internalID: -1796784728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_31
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5c4d28e5871ca4186584a47534d902
+      internalID: 1966020561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_32
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b8360f9bf096544984bb8e7a0582a2
+      internalID: -998687459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_33
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1672
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d9dbc626499fe4cbf3920b9e4fc490
+      internalID: 2099989549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a40ead010616d44eb6ab66232875a91
+      internalID: -2028531456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4e24de3abcaea4ab647ac048d0967a
+      internalID: -839089014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1247f8bedbe42464fa50b94012f0fc70
+      internalID: -734955694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1607dfecf2f12c429ff3f5e1abab33d
+      internalID: 1248565744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ec9257d5c6e64419ea399d13ae48c0
+      internalID: -1695902137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_39
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5788063fc497ac94e969d8aa51a04c2f
+      internalID: 250483918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3408c7daeeb812479aecc72f22dc4c4
+      internalID: -948057275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_41
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c1b3c0522858d4c94628aed12a742a
+      internalID: -1332609936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_42
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d313ca47c3d2442a85f1087e3cb247
+      internalID: 1170424717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_43
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852c24b5582843745aaaf5424c18acaf
+      internalID: -588685048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_44
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a3c997c2bbb314da2cd8e289985c4b
+      internalID: -1739547021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_45
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f1d9a1d2a12d043a697f8f5cd51609
+      internalID: -436454651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_46
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224504f4dc50091459a6e0810a07ba1b
+      internalID: -397140698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_47
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da26faf4d1eca8c40ad4b30467f8994e
+      internalID: 1513296866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_48
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b4b220c1feb514a9f6ed1bdf230dbe
+      internalID: -1171708180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_49
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92163ccc46984454d929020f4e3bbef1
+      internalID: 334960196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_50
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fc73938677fb1469fdc877521f54a8
+      internalID: -607749323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e92660a8bd0c8428870a86b4e9a91f
+      internalID: 1679068710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78002e8ee0f854e4fb388fb431def23f
+      internalID: -528678523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992976a5b19f3e64fb75a53964073ec6
+      internalID: 981949411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54894959dd299d45b6e9b78f3e92451
+      internalID: 553498222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_55
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa11f6bf61b56346aa19b7b2c8a1e83
+      internalID: -1453904907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_56
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ea16ac0a4f46340a7a9468c270503d
+      internalID: -2024043397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_57
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc28e74cf0d915a46adab3e0f81aeb3b
+      internalID: -615040281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_58
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f83125ad6df814f8ba964273649405
+      internalID: 410418749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_59
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997ae03b0631fa4469c7a64c4618450a
+      internalID: 1676161647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_60
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12525321645e90e4787d34bddffa662f
+      internalID: 447053237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_61
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160fc9955d6af7d4285bf438b2ed5919
+      internalID: -247585735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_62
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb302c235d953ae45b3d37e936ef48e8
+      internalID: -1914452845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_63
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e95925ee4b9d4c4b8b0d1a1db95b8b6
+      internalID: -667462408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_64
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973bcf0be3449fd498949776f09e92d0
+      internalID: 1929875409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_65
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda5aaad0dfe8384294dc2398b34d40d
+      internalID: 193642659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_66
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02c32a19508633488a2fd29441de9d2
+      internalID: 1077264538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_67
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dce59993e41e25448d15c3be504bc56
+      internalID: 1953364254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822f2d245af0e904d881143c9c7b938b
+      internalID: 50566461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_69
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a8480041e036144b683a172dd657c3
+      internalID: -1189354604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd59e81b59a61f46a387184ec47741b
+      internalID: -8229772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_71
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038c7e62f373c724da4f5064e963904a
+      internalID: -1565377336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ead9f4ea2cca243b9e270b7c77d491
+      internalID: -27918281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_73
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa92cf8a44112e4db6b90ea876b3c58
+      internalID: 687633940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_74
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad48c06914fdca7409f3011a0c157612
+      internalID: -793083973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_75
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a835671420974d24b8426d09ebfeb15c
+      internalID: 1749874737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_76
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a046abbbaaed8eb4fb669dd262d9ee9f
+      internalID: -322419219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_77
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02007c0f4ae7c3c4f8e6a92c0358b017
+      internalID: 1476516303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_78
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2e035eb6534024299febd48daa2987
+      internalID: 301692080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_79
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e974d71b80cc84aad3ef2cc2d0b23a
+      internalID: -1504028429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_80
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d57834133b7a6c41ab6be0c64b80544
+      internalID: 1955668176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5950bb1e0feaa4c96720ca0b2a8157
+      internalID: -718353138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9215e3321cbd0f4698a37b51ddd1c7c
+      internalID: -1112292978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_83
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65c7e77430415142a3184246aed0d28
+      internalID: 1105579550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_84
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88db32af05236949965f90111334a8c
+      internalID: -1431478563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_85
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5e12a7172f62b409def154cee9c938
+      internalID: 2121566783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_86
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad945bcb09451734bae2ea6336fcc5ff
+      internalID: 1915711134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_87
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e7a6af6bf6cd849b259ff6d4008403
+      internalID: 138443133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_88
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ddc3ea104a32749acf797ba8cd0cd8
+      internalID: 603396172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_89
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18e8fd830a1fdc45b062d828f6b12f8
+      internalID: 15988669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_90
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207a2df94c4a34846892553b85b9541b
+      internalID: 1948519320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_91
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa0cda091bf36f48bf2c5446f16620e
+      internalID: -1279481419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_92
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211264fd781e67f4292048a99f322bcb
+      internalID: 1581735846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_93
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca48feb1d2a1674781c0409e3b48c55
+      internalID: 1455734079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_94
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e95f617e3372b439cf2d070a1483c6
+      internalID: 355641880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_95
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f080dd7e45191504eab91b995eefc99f
+      internalID: -973881564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_96
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90299fdab5b01b04f829212f7c7d28d1
+      internalID: 2034667202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_97
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67da02637a5b1da41b4ee712ba284649
+      internalID: 1273699727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_98
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b0953db3967024d91a3467d4e0d0e9
+      internalID: 325255262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_99
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b8dd72c126a2e42af4e380fe9ddf80
+      internalID: 996324748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_100
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c61b4299d2be1408c52b9aa428b29a
+      internalID: 1688511867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_101
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab50e48686a4f749a26d25e3602218d
+      internalID: -749532023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c98d8470ec673b459426ae5e2466dd1
+      internalID: 245449740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c363d5162d199b14995d4f5f807a2e5a
+      internalID: 1128315867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116edaa32c37f424782e938652b76f41
+      internalID: -990727903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cb24270b6cdd543a24f8709ea64e47
+      internalID: 1607663330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36be1c7f96271ef4eaf88801c232cd65
+      internalID: 1674214004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc36d8b47348d24eadbdb4379c723dc
+      internalID: -237868677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fb353222a7b2c48beb76bf7b624413
+      internalID: 519336551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_109
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420f166ac10b48f4d945d6a7cea53a22
+      internalID: 246698845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_110
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8fbff4dbe3e7e46a784e2907b409ba
+      internalID: 329240413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_111
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aaff3025e6d9664da76217c1bfa0fd7
+      internalID: -1902254069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_112
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bbaeb2c2f6ecb4aa64cd5bbfcaf2f6
+      internalID: -1529329393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_113
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b75783b66ac92e4d94aa549cc3bf065
+      internalID: -1869539576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_114
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb42d219d57195d448cf644c35b19769
+      internalID: 189999033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_115
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ef7777c46a7654c909a69c8a670566
+      internalID: 913260436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_116
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990e756f6957e714d9ad43768e5dbb6f
+      internalID: 790388042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_117
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296bed3bd756c1f4cbf7a3c00bc59889
+      internalID: 1887051291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_118
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d55450ea4148b44bb3ce3cd7061f9a
+      internalID: -1971283471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_119
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732704b867cf61442acd5291c685268c
+      internalID: 2074548243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_120
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d00c22ae2125714ca869fc080b8d4a0
+      internalID: 173193563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_121
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b54bfdc0512a144fbbb284a46f9655d
+      internalID: 170707410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_122
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fc5253334b80c4780af34dd4ed8092
+      internalID: 605057680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec662fb3cc5d8a47baa91dfa11f5add
+      internalID: 1714227447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_124
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f72f4d005f0fef4d891518dc66fb0cc
+      internalID: -2045459355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_125
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1c490b69653044ca243754fd008c97
+      internalID: -1595626828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_126
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f85a2512f649a4cb83cf9c35e0091d
+      internalID: 837988086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_127
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c383b7c5d2c3c343bc3f61d0066b421
+      internalID: 85064240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_128
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8d946c6fd946649bbfc8a621c073c2
+      internalID: -489630092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_129
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2087bff01d4675447a4e5b964a2555a8
+      internalID: -1382546196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_130
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcddec63d4f6fc446b42289bbeed2073
+      internalID: -291387503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_131
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7d574baa7d39b45afc23e56ad9063e
+      internalID: 352778043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_132
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499880d1eb29e914a9ef4a61f2aa9315
+      internalID: 301153895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_133
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eed5a3da1df0c74ea09d217043ff365
+      internalID: -1597971028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_134
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67f540ee4a439247b46cb3437b1c7ba
+      internalID: -1955893014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_135
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfa8ef9705740744b395dd7a76d5649
+      internalID: 843945418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_136
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f571d89072838ca48986c949ccc4591a
+      internalID: 303815040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_137
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7385b16ba46b10141a343e754f54405c
+      internalID: -385208632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_138
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2b2ee0cbf566440a51a27f036fa521
+      internalID: -775968799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_139
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df539b7c8a0aa1740a50ab26160e934d
+      internalID: -2080872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_140
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8192aa273a245a4b952568a4d6ac07a
+      internalID: 315525287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_141
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65fcd5750d838a43b6646944bd51315
+      internalID: 5511594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_142
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedc9c204ef85c6408b5f0c9ddc6729a
+      internalID: -101206395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_143
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade7d9a7c3150f3469935b3b72f76682
+      internalID: 911898087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1834a545baf174c4480b2a227ad4cf2c
+      internalID: 884111941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_145
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3215b5344cabc064288ef51e0a9a6dc1
+      internalID: -268825023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_146
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2440718c8a97a5f42a764f0be244f8c1
+      internalID: -2005702426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_147
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a663c5353277fc49b16e726de149b15
+      internalID: -1565459616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_148
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1defa1d289d43f4ea7d9415d377d0db
+      internalID: 2024483434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_149
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc52fd279041904eac3cc20d9eb37ec
+      internalID: 278228873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_150
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990ce411f02641844b6615c3e5d8550b
+      internalID: -1088970592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_151
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b5cc5d42519644888523e74574428c
+      internalID: 1770654967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_152
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a8c140a78a7364f9f3d02a18435950
+      internalID: 1535493448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_153
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e26c37cf1a4a8f40bcd86f0b92444f4
+      internalID: 451845775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_154
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19053216d6c70924e8198c7ed7a790de
+      internalID: -316430821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_155
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee007807326964a4a93495d2635e36c3
+      internalID: -1823565287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_156
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded14e62b46a69f48a20fbe847324121
+      internalID: -1755057218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_157
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583f3ce0afa18b74db75f3abd67e1cff
+      internalID: 1707797047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_158
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c67df4325d8bc49a2172087a36f5f8
+      internalID: -1523407644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_159
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfd762e35a7a984188c50e33b467199
+      internalID: -1336883802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_160
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce0ffa0e9297b842b248f226c46e48d
+      internalID: -60084394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_161
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b3ec60043531e49b429d9cf17c7fe3
+      internalID: 1529289854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_162
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a44d8761a45cf145ab8ddc7fe18a501
+      internalID: 309983202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_163
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1160
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17556dec99ed0104ea0444278d0f17c1
+      internalID: -1753757846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_164
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1160
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a30312b43a6cd46a2b6bf63c85c6d6
+      internalID: -515227619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_165
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1160
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69936c006b68f9c4cbbaa6ba72fb58a2
+      internalID: -664651261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_166
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1160
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fb9a528548d504482e4885fe739ed6
+      internalID: -1865893633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_167
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1096
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1f7088f55ddf7418bfc1220108b283
+      internalID: -1977521558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_168
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1096
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d195910d9087bc149a54e8270df59f3a
+      internalID: -921717099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_169
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1096
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197b4cf4a00ff5a498369e95ed3b8c84
+      internalID: 276304548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_170
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1096
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a681b34511a47947925c7cbd5971bc0
+      internalID: 2072760395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_171
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1096
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b943955ba87f7b4291958a56ee2b469
+      internalID: -1540966854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_172
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1096
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d2a4f51b6cce74a93c8bc4a0e6fee5
+      internalID: 954511035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_173
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1096
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d9bb594ef96804db06d945f143fcf4
+      internalID: -927703080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_174
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1096
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb0193bee22ba948a4fa9a02096759f
+      internalID: 420324903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_175
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1032
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ef0a73a2702d046b5830525c0e8ac2
+      internalID: -1614644116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_176
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1032
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffb5af6363796f4697790c6fc72d1af
+      internalID: -2142847896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_177
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1032
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a672187d599c4c47a305b750d492c2a
+      internalID: 994855931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_178
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1032
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc24115791596b4ebdb4ef61360eafa
+      internalID: -1369523451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_179
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1032
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebc3bc789bbd91429c8252aadc98abf
+      internalID: 554703461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_180
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1032
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a671ab9829d14864687a0a64410a7ad0
+      internalID: -952312022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_181
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 968
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e406174896af55842b2e14537aa3c0aa
+      internalID: -311433334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_182
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 968
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee86c35bbef24ac409e3aaca353a3686
+      internalID: 693619942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_183
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 968
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f086f543544e4408f8986b0fe0c8f7
+      internalID: 261850857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_184
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 968
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e52cb00d203714fa04f01b71593a3e
+      internalID: 1643343511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AreaIsiRumahAri_185
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 968
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cb8f3addd017d4a9205123c285ce0b
+      internalID: -1450947632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AreaIsiRumahAri_0: 704602344
+      AreaIsiRumahAri_1: -244871133
+      AreaIsiRumahAri_10: -1430451607
+      AreaIsiRumahAri_100: 1688511867
+      AreaIsiRumahAri_101: -749532023
+      AreaIsiRumahAri_102: 245449740
+      AreaIsiRumahAri_103: 1128315867
+      AreaIsiRumahAri_104: -990727903
+      AreaIsiRumahAri_105: 1607663330
+      AreaIsiRumahAri_106: 1674214004
+      AreaIsiRumahAri_107: -237868677
+      AreaIsiRumahAri_108: 519336551
+      AreaIsiRumahAri_109: 246698845
+      AreaIsiRumahAri_11: -1271500623
+      AreaIsiRumahAri_110: 329240413
+      AreaIsiRumahAri_111: -1902254069
+      AreaIsiRumahAri_112: -1529329393
+      AreaIsiRumahAri_113: -1869539576
+      AreaIsiRumahAri_114: 189999033
+      AreaIsiRumahAri_115: 913260436
+      AreaIsiRumahAri_116: 790388042
+      AreaIsiRumahAri_117: 1887051291
+      AreaIsiRumahAri_118: -1971283471
+      AreaIsiRumahAri_119: 2074548243
+      AreaIsiRumahAri_12: -1684880808
+      AreaIsiRumahAri_120: 173193563
+      AreaIsiRumahAri_121: 170707410
+      AreaIsiRumahAri_122: 605057680
+      AreaIsiRumahAri_123: 1714227447
+      AreaIsiRumahAri_124: -2045459355
+      AreaIsiRumahAri_125: -1595626828
+      AreaIsiRumahAri_126: 837988086
+      AreaIsiRumahAri_127: 85064240
+      AreaIsiRumahAri_128: -489630092
+      AreaIsiRumahAri_129: -1382546196
+      AreaIsiRumahAri_13: 253014686
+      AreaIsiRumahAri_130: -291387503
+      AreaIsiRumahAri_131: 352778043
+      AreaIsiRumahAri_132: 301153895
+      AreaIsiRumahAri_133: -1597971028
+      AreaIsiRumahAri_134: -1955893014
+      AreaIsiRumahAri_135: 843945418
+      AreaIsiRumahAri_136: 303815040
+      AreaIsiRumahAri_137: -385208632
+      AreaIsiRumahAri_138: -775968799
+      AreaIsiRumahAri_139: -2080872
+      AreaIsiRumahAri_14: -1558835985
+      AreaIsiRumahAri_140: 315525287
+      AreaIsiRumahAri_141: 5511594
+      AreaIsiRumahAri_142: -101206395
+      AreaIsiRumahAri_143: 911898087
+      AreaIsiRumahAri_144: 884111941
+      AreaIsiRumahAri_145: -268825023
+      AreaIsiRumahAri_146: -2005702426
+      AreaIsiRumahAri_147: -1565459616
+      AreaIsiRumahAri_148: 2024483434
+      AreaIsiRumahAri_149: 278228873
+      AreaIsiRumahAri_15: 587442872
+      AreaIsiRumahAri_150: -1088970592
+      AreaIsiRumahAri_151: 1770654967
+      AreaIsiRumahAri_152: 1535493448
+      AreaIsiRumahAri_153: 451845775
+      AreaIsiRumahAri_154: -316430821
+      AreaIsiRumahAri_155: -1823565287
+      AreaIsiRumahAri_156: -1755057218
+      AreaIsiRumahAri_157: 1707797047
+      AreaIsiRumahAri_158: -1523407644
+      AreaIsiRumahAri_159: -1336883802
+      AreaIsiRumahAri_16: 776630468
+      AreaIsiRumahAri_160: -60084394
+      AreaIsiRumahAri_161: 1529289854
+      AreaIsiRumahAri_162: 309983202
+      AreaIsiRumahAri_163: -1753757846
+      AreaIsiRumahAri_164: -515227619
+      AreaIsiRumahAri_165: -664651261
+      AreaIsiRumahAri_166: -1865893633
+      AreaIsiRumahAri_167: -1977521558
+      AreaIsiRumahAri_168: -921717099
+      AreaIsiRumahAri_169: 276304548
+      AreaIsiRumahAri_17: 581411214
+      AreaIsiRumahAri_170: 2072760395
+      AreaIsiRumahAri_171: -1540966854
+      AreaIsiRumahAri_172: 954511035
+      AreaIsiRumahAri_173: -927703080
+      AreaIsiRumahAri_174: 420324903
+      AreaIsiRumahAri_175: -1614644116
+      AreaIsiRumahAri_176: -2142847896
+      AreaIsiRumahAri_177: 994855931
+      AreaIsiRumahAri_178: -1369523451
+      AreaIsiRumahAri_179: 554703461
+      AreaIsiRumahAri_18: 1948303873
+      AreaIsiRumahAri_180: -952312022
+      AreaIsiRumahAri_181: -311433334
+      AreaIsiRumahAri_182: 693619942
+      AreaIsiRumahAri_183: 261850857
+      AreaIsiRumahAri_184: 1643343511
+      AreaIsiRumahAri_185: -1450947632
+      AreaIsiRumahAri_19: 1038800727
+      AreaIsiRumahAri_2: 2073432370
+      AreaIsiRumahAri_20: 1915410197
+      AreaIsiRumahAri_21: 136683017
+      AreaIsiRumahAri_22: 1513581767
+      AreaIsiRumahAri_23: 1236890577
+      AreaIsiRumahAri_24: 763030842
+      AreaIsiRumahAri_25: 1555746388
+      AreaIsiRumahAri_26: -1642777105
+      AreaIsiRumahAri_27: -1939742276
+      AreaIsiRumahAri_28: -1781270434
+      AreaIsiRumahAri_29: -784175873
+      AreaIsiRumahAri_3: 661882042
+      AreaIsiRumahAri_30: -1796784728
+      AreaIsiRumahAri_31: 1966020561
+      AreaIsiRumahAri_32: -998687459
+      AreaIsiRumahAri_33: 2099989549
+      AreaIsiRumahAri_34: -2028531456
+      AreaIsiRumahAri_35: -839089014
+      AreaIsiRumahAri_36: -734955694
+      AreaIsiRumahAri_37: 1248565744
+      AreaIsiRumahAri_38: -1695902137
+      AreaIsiRumahAri_39: 250483918
+      AreaIsiRumahAri_4: -1377663124
+      AreaIsiRumahAri_40: -948057275
+      AreaIsiRumahAri_41: -1332609936
+      AreaIsiRumahAri_42: 1170424717
+      AreaIsiRumahAri_43: -588685048
+      AreaIsiRumahAri_44: -1739547021
+      AreaIsiRumahAri_45: -436454651
+      AreaIsiRumahAri_46: -397140698
+      AreaIsiRumahAri_47: 1513296866
+      AreaIsiRumahAri_48: -1171708180
+      AreaIsiRumahAri_49: 334960196
+      AreaIsiRumahAri_5: -335460195
+      AreaIsiRumahAri_50: -607749323
+      AreaIsiRumahAri_51: 1679068710
+      AreaIsiRumahAri_52: -528678523
+      AreaIsiRumahAri_53: 981949411
+      AreaIsiRumahAri_54: 553498222
+      AreaIsiRumahAri_55: -1453904907
+      AreaIsiRumahAri_56: -2024043397
+      AreaIsiRumahAri_57: -615040281
+      AreaIsiRumahAri_58: 410418749
+      AreaIsiRumahAri_59: 1676161647
+      AreaIsiRumahAri_6: -285799127
+      AreaIsiRumahAri_60: 447053237
+      AreaIsiRumahAri_61: -247585735
+      AreaIsiRumahAri_62: -1914452845
+      AreaIsiRumahAri_63: -667462408
+      AreaIsiRumahAri_64: 1929875409
+      AreaIsiRumahAri_65: 193642659
+      AreaIsiRumahAri_66: 1077264538
+      AreaIsiRumahAri_67: 1953364254
+      AreaIsiRumahAri_68: 50566461
+      AreaIsiRumahAri_69: -1189354604
+      AreaIsiRumahAri_7: -977677540
+      AreaIsiRumahAri_70: -8229772
+      AreaIsiRumahAri_71: -1565377336
+      AreaIsiRumahAri_72: -27918281
+      AreaIsiRumahAri_73: 687633940
+      AreaIsiRumahAri_74: -793083973
+      AreaIsiRumahAri_75: 1749874737
+      AreaIsiRumahAri_76: -322419219
+      AreaIsiRumahAri_77: 1476516303
+      AreaIsiRumahAri_78: 301692080
+      AreaIsiRumahAri_79: -1504028429
+      AreaIsiRumahAri_8: -2146476972
+      AreaIsiRumahAri_80: 1955668176
+      AreaIsiRumahAri_81: -718353138
+      AreaIsiRumahAri_82: -1112292978
+      AreaIsiRumahAri_83: 1105579550
+      AreaIsiRumahAri_84: -1431478563
+      AreaIsiRumahAri_85: 2121566783
+      AreaIsiRumahAri_86: 1915711134
+      AreaIsiRumahAri_87: 138443133
+      AreaIsiRumahAri_88: 603396172
+      AreaIsiRumahAri_89: 15988669
+      AreaIsiRumahAri_9: -131530142
+      AreaIsiRumahAri_90: 1948519320
+      AreaIsiRumahAri_91: -1279481419
+      AreaIsiRumahAri_92: 1581735846
+      AreaIsiRumahAri_93: 1455734079
+      AreaIsiRumahAri_94: 355641880
+      AreaIsiRumahAri_95: -973881564
+      AreaIsiRumahAri_96: 2034667202
+      AreaIsiRumahAri_97: 1273699727
+      AreaIsiRumahAri_98: 325255262
+      AreaIsiRumahAri_99: 996324748
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
