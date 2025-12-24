@@ -32,5 +32,7 @@ public class AreaProgressData : ScriptableObject
         totalSeed = 0;
         seedGrown = 0;
         isEnvironmentClean = false;
+
+        Debug.Log("[RESET] AreaProgressData reset");
     }
 }

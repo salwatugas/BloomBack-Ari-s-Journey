@@ -1,4 +1,6 @@
 using UnityEngine;
+using System;
+
 
 // GameDataRuntime bertugas mengelola seluruh data runtime selama game berjalan
 // Data runtime dibuat dengan cara meng-clone template ScriptableObject,
@@ -9,6 +11,8 @@ using UnityEngine;
 // sehingga hanya ada satu pengelola data runtime selama game berjalan
 public class GameDataRuntime : MonoBehaviour
 {
+    public static event Action OnRuntimeDataReset;
+
     // Instance tunggal GameDataRuntime
     public static GameDataRuntime Instance;
 
@@ -37,23 +41,14 @@ public class GameDataRuntime : MonoBehaviour
         Instance = this;
         DontDestroyOnLoad(gameObject);
 
-        // Membuat salinan data runtime dari template
-        area = Instantiate(areaTemplate);
-        seed = Instantiate(seedTemplate);
-        decoration = Instantiate(decorationTemplate);
-        income = Instantiate(incomeTemplate);
+        CreateRuntimeData();
     }
 
-    // Mengatur ulang seluruh data runtime ke kondisi awal
-    public void ResetAllRuntimeData()
+    // =========================
+    // RUNTIME DATA CREATION
+    // =========================
+    void CreateRuntimeData()
     {
-        // Hapus data runtime lama
-        Destroy(area);
-        Destroy(seed);
-        Destroy(decoration);
-        Destroy(income);
-
-        // Buat ulang data runtime dari template
         area = Instantiate(areaTemplate);
         seed = Instantiate(seedTemplate);
         decoration = Instantiate(decorationTemplate);
@@ -65,4 +60,30 @@ public class GameDataRuntime : MonoBehaviour
         decoration.hideFlags = HideFlags.DontSave;
         income.hideFlags = HideFlags.DontSave;
     }
+
+    // =========================
+    // RESET DATA (NEW GAME)
+    // =========================
+    // Dipanggil saat player menekan tombol START di Main Menu
+    public void ResetAllRuntimeData()
+    {
+        // Hancurkan data runtime lama
+        if (area != null) Destroy(area);
+        if (seed != null) Destroy(seed);
+        if (decoration != null) Destroy(decoration);
+        if (income != null) Destroy(income);
+
+        // Buat ulang data runtime dari template
+        CreateRuntimeData();
+
+        // Pastikan runtime data benar-benar fresh & tidak tersimpan
+        area.hideFlags = HideFlags.DontSave;
+        seed.hideFlags = HideFlags.DontSave;
+        decoration.hideFlags = HideFlags.DontSave;
+        income.hideFlags = HideFlags.DontSave;
+
+        // Beri tahu semua sistem untuk rebind data runtime
+        OnRuntimeDataReset?.Invoke();
+    }
+    
 }

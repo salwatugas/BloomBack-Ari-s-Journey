@@ -12,10 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99d18eebdc528a3439e902a4901cfe1e, type: 3}
   m_Name: DecorationIncomeSaveData
   m_EditorClassIdentifier: 
-  incomes:
-  - decorationID: Plant1
-    nextIncomeTime: 199.0568
-  - decorationID: Meja
-    nextIncomeTime: 265.16534
-  - decorationID: Lampu
-    nextIncomeTime: 306.94928
+  incomes: []

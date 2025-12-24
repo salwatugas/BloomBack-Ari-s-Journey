@@ -111,4 +111,21 @@ public class EnergyManager : MonoBehaviour
     {
         return currentEnergy > 0;
     }
+
+    // =========================
+    // RESET ENERGY (START GAME)
+    // =========================
+    public void ResetEnergy()
+    {
+        // Reset energi ke kondisi awal
+        currentEnergy = maxEnergy;
+
+        // Reset seluruh counter internal
+        trashCounter = 0;
+        dustTrashCounter = 0;
+
+        NotifyUI();
+
+        Debug.Log("[RESET] EnergyManager reset");
+    }
 }

@@ -28,12 +28,49 @@ public class GameManager : MonoBehaviour
 
         Instance = this;
         DontDestroyOnLoad(gameObject);
+
+        // =========================
+        // AMBIL DATA RUNTIME
+        // =========================
+        BindRuntimeData();
+
+        // Dengarkan event reset runtime
+        GameDataRuntime.OnRuntimeDataReset += RebindRuntimeData;
+    }
+
+    private void OnDestroy()
+    {
+        GameDataRuntime.OnRuntimeDataReset -= RebindRuntimeData;
     }
 
     // Hitung total trash saat game dimulai
     private void Start()
     {
         CountTotalTrashIfNeeded();
+    }
+
+    // =========================
+    // RUNTIME DATA BINDING
+    // =========================
+    void BindRuntimeData()
+    {
+        if (GameDataRuntime.Instance == null) return;
+
+        areaProgress = GameDataRuntime.Instance.area;
+    }
+
+    // Dipanggil otomatis setelah runtime data di-reset
+    void RebindRuntimeData()
+    {
+        BindRuntimeData();
+
+        // Pastikan data benar-benar kosong
+        areaProgress.totalTrash = 0;
+        areaProgress.trashCleaned = 0;
+        areaProgress.seedGrown = 0;
+        areaProgress.isEnvironmentClean = false;
+
+        Debug.Log("[REBIND] AreaProgressData berhasil di-reset & di-bind ulang");
     }
 
     // Menghitung total trash satu kali di awal area
@@ -113,5 +150,26 @@ public class GameManager : MonoBehaviour
     public int GetScore()
     {
         return playerScore;
+    }
+
+    // =========================
+    // RESET GAME DATA (START GAME)
+    // =========================
+    public void ResetGame()
+    {
+        // Reset poin player
+        playerScore = 0;
+
+        if (areaProgress == null) return;
+
+        // Reset progres area
+        areaProgress.trashCleaned = 0;
+        areaProgress.seedGrown = 0;
+        areaProgress.isEnvironmentClean = false;
+
+        // Reset total trash agar dihitung ulang saat gameplay dimulai
+        areaProgress.totalTrash = 0;
+
+        Debug.Log("[RESET] GameManager & AreaProgress reset");
     }
 }

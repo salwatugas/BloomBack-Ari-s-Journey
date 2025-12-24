@@ -57,4 +57,18 @@ public class DecorationInventory : MonoBehaviour
         onInventoryChanged?.Invoke();
         return true;
     }
+
+    // =========================
+    // RESET INVENTORY (START GAME)
+    // =========================
+    public void ResetInventory()
+    {
+        // Kosongkan seluruh dekorasi yang dimiliki
+        ownedDecorations.Clear();
+
+        // Beri tahu UI agar refresh slot
+        onInventoryChanged?.Invoke();
+
+        Debug.Log("[RESET] DecorationInventory reset");
+    }
 }

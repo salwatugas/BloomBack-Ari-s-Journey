@@ -37,6 +37,14 @@ public class EnvironmentManager : MonoBehaviour
             Destroy(gameObject);
             return;
         }
+
+        // Dengarkan reset runtime data
+        GameDataRuntime.OnRuntimeDataReset += RebindRuntimeData;
+    }
+
+    private void OnDestroy()
+    {
+        GameDataRuntime.OnRuntimeDataReset -= RebindRuntimeData;
     }
 
     // Ambil runtime data dan terapkan kondisi environment
@@ -44,6 +52,15 @@ public class EnvironmentManager : MonoBehaviour
     {
         areaProgress = GameDataRuntime.Instance.area;
         ApplyEnvironmentState();
+    }
+
+    // Dipanggil otomatis saat runtime data di-reset (Start Game)
+    void RebindRuntimeData()
+    {
+        areaProgress = GameDataRuntime.Instance.area;
+        ApplyEnvironmentState();
+
+        Debug.Log("[REBIND] EnvironmentManager rebind & environment reset");
     }
 
     // Menerapkan visual environment berdasarkan state global

@@ -106,4 +106,18 @@ public class DecorationPlacementManager : MonoBehaviour
     {
         return selectedPrefab != null;
     }
+
+    // =========================
+    // RESET PLACEMENT STATE (START GAME)
+    // =========================
+    public void ResetPlacementState()
+    {
+        // Batalkan dekorasi yang sedang dipilih
+        CancelPlacement();
+
+        // Matikan mode hapus
+        isRemoveMode = false;
+
+        Debug.Log("[RESET] DecorationPlacementManager reset");
+    }
 }
