@@ -90,7 +90,7 @@ Poin diperoleh dari aktivitas pemain dan digunakan sebagai mata uang untuk membe
 
 ---
 
-## 🧩 Design Patterns
+## Design Patterns
 
 ### Singleton Pattern
 Singleton Pattern digunakan untuk memastikan sistem inti game hanya memiliki satu instance aktif selama permainan berlangsung. Pola ini diterapkan pada sistem global seperti `GameManager`, `GameDataRuntime`, `EnergyManager`, `DecorationInventory`, `DecorationPlacementManager`, `ToolManager`, dan `EnvironmentManager` untuk menjaga konsistensi data antar scene serta mendukung penggunaan `DontDestroyOnLoad`.
