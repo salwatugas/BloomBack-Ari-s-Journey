@@ -90,35 +90,25 @@ Poin diperoleh dari aktivitas pemain dan digunakan sebagai mata uang untuk membe
 
 ---
 
-## Object-Oriented Programming (OOP)
-
-### Encapsulation
-Setiap objek interaksi seperti **Trash**, **DustTrash**, dan **SeedPlant** mengelola data dan prosesnya sendiri melalui method yang terkontrol.
-
-### Inheritance
-Class **PlayerMovement** mewarisi **BaseCharacter** untuk mengimplementasikan sistem pergerakan karakter.
-
-### Polymorphism
-Objek interaksi memiliki perilaku berbeda namun dapat diproses menggunakan sistem interaksi yang sama.
-
-### Abstraction
-Interface digunakan untuk merepresentasikan objek yang memiliki proses interaksi tanpa bergantung pada detail implementasi.
-
----
-
-## Design Pattern
+## 🧩 Design Patterns
 
 ### Singleton Pattern
-Digunakan pada class manager seperti:
-- GameManager
-- EnergyManager
-- AudioManager
-- MusicManager  
+Singleton Pattern digunakan untuk memastikan sistem inti game hanya memiliki satu instance aktif selama permainan berlangsung. Pola ini diterapkan pada sistem global seperti `GameManager`, `GameDataRuntime`, `EnergyManager`, `DecorationInventory`, `DecorationPlacementManager`, `ToolManager`, dan `EnvironmentManager` untuk menjaga konsistensi data antar scene serta mendukung penggunaan `DontDestroyOnLoad`.
 
-Pattern ini memastikan hanya ada satu instance yang mengatur sistem utama game.
+### Observer Pattern (Event-Based)
+Observer Pattern diterapkan menggunakan event berbasis C# untuk mengurangi ketergantungan langsung antar sistem. Contohnya, `GameDataRuntime` memiliki event `OnRuntimeDataReset` untuk memberi tahu sistem lain saat data di-reset, serta `DecorationInventory` menggunakan event `onInventoryChanged` agar UI dapat memperbarui tampilan secara otomatis ketika data inventory berubah.
 
-### State Pattern
-Digunakan pada sistem pertumbuhan tanaman untuk mengatur perubahan perilaku berdasarkan tahap pertumbuhan.
+### State Pattern (Sederhana)
+State Pattern digunakan secara implisit untuk mengatur perilaku sistem berdasarkan kondisi tertentu. Implementasi dapat ditemukan pada `ToolManager` melalui enum `ToolType` (None, Broom, Watering), `DecorationPlacementManager` dengan mode hapus dan pasang dekorasi, serta `EnvironmentManager` yang mengatur perubahan visual lingkungan berdasarkan status kebersihan.
+
+### ScriptableObject Pattern
+ScriptableObject Pattern digunakan untuk memisahkan data dari logika gameplay. Data seperti progres area, pertumbuhan tanaman, dan dekorasi disimpan dalam ScriptableObject sebagai template, lalu di-clone menjadi data runtime oleh `GameDataRuntime`, sehingga data aman dan mudah di-reset saat *New Game*.
+
+### Facade Pattern (Konseptual)
+Facade Pattern diterapkan secara konseptual pada `GameManager`, yang berperan sebagai pusat kontrol gameplay. Sistem lain cukup memanggil method publik seperti `AddPoint()` atau `TrashCleaned()` tanpa perlu mengetahui detail logika internal, sehingga kompleksitas sistem menjadi lebih sederhana.
+
+### Single Responsibility Principle (SRP)
+Setiap script dirancang memiliki satu tanggung jawab utama. Sebagai contoh, `EnergyManager` hanya mengatur sistem energi, `DecorationInventory` hanya mengelola inventory dekorasi, dan `EnvironmentManager` hanya mengatur kondisi visual lingkungan. Pendekatan ini membuat kode lebih rapi dan mudah dipelihara.
 
 ---
 
