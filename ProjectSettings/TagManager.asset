@@ -86,3 +86,6 @@ TagManager:
   - name: BarProgress
     uniqueID: 2830873805
     locked: 0
+  - name: WarningIcon
+    uniqueID: 2732994109
+    locked: 0

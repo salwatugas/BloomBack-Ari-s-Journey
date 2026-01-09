@@ -89,8 +89,12 @@ public class SeedPlant : MonoBehaviour
     // Dipanggil saat player menahan tombol untuk menyiram tanaman
     public bool WaterProgress(float delta)
     {
+        // Jika tidak bisa disiram, tampilkan warning yang sesuai
         if (!CanBeWatered())
+        {
+            ShowWarningIfNeeded();
             return false;
+        }
 
         isInteracting = true;
 
@@ -137,11 +141,38 @@ public class SeedPlant : MonoBehaviour
         return true;
     }
 
+    // =========================
+    // WARNING HANDLER (SEED)
+    // =========================
+    void ShowWarningIfNeeded()
+    {
+        // Jika alat salah → tampilkan warning alat siram
+        if (ToolManager.Instance != null &&
+            !ToolManager.Instance.isHoldingWatering)
+        {
+            ToolManager.Instance.ShowWrongToolWarning(
+                ToolManager.ToolType.Watering
+            );
+            return;
+        }
+
+        // Jika energi habis → tampilkan warning energi
+        if (EnergyManager.Instance != null &&
+            !EnergyManager.Instance.HasEnergy())
+        {
+            EnergyManager.Instance.ShowEnergyWarning();
+            return;
+        }
+    }
+
     // Proses setelah penyiraman selesai
     void CompleteWatering()
     {
         if (!EnergyManager.Instance.UseEnergy(1))
+        {
+            ShowWarningIfNeeded();
             return;
+        }
 
         isInteracting = false;
         ResetProgress();

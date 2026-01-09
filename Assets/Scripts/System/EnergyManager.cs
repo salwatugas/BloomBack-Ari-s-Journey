@@ -24,9 +24,17 @@ public class EnergyManager : MonoBehaviour
     public int dustTrashPerEnergy = 2;
     private int dustTrashCounter = 0;
 
+    // =========================
+    // WARNING UI (ENERGY)
+    // =========================
+    // Digunakan untuk menampilkan tanda seru
+    // saat player mencoba melakukan aksi tetapi energi tidak mencukupi
+    public UIWarningIndicator energyWarning;
+
     // Inisialisasi singleton dan energi awal
     void Awake()
     {
+        // Cegah duplikasi EnergyManager
         if (Instance != null)
         {
             Destroy(gameObject);
@@ -53,13 +61,28 @@ public class EnergyManager : MonoBehaviour
     }
 
     // Mengurangi energi saat player melakukan aksi
+    // Mengembalikan false jika energi tidak mencukupi
     public bool UseEnergy(int amount = 1)
     {
+        // Jika energi tidak cukup, tampilkan warning
         if (currentEnergy < amount)
-            return false;
+        {
+            if (energyWarning != null)
+                energyWarning.ShowWarning();
 
+            return false;
+        }
+
+        // Kurangi energi
         currentEnergy -= amount;
         NotifyUI();
+
+        // Jika energi habis setelah digunakan, tampilkan warning
+        if (currentEnergy <= 0)
+        {
+            if (energyWarning != null)
+                energyWarning.ShowWarning();
+        }
 
         return true;
     }
@@ -67,11 +90,18 @@ public class EnergyManager : MonoBehaviour
     // Mencatat pembersihan trash untuk aturan pengurangan energi
     public void RegisterTrashCleaned()
     {
+        // Jika player mencoba membersihkan saat energi habis,
+        // tampilkan warning sebagai feedback visual
         if (!HasEnergy())
+        {
+            if (energyWarning != null)
+                energyWarning.ShowWarning();
             return;
+        }
 
         trashCounter++;
 
+        // Setiap beberapa trash, energi akan berkurang
         if (trashCounter >= trashPerEnergy)
         {
             trashCounter = 0;
@@ -82,11 +112,18 @@ public class EnergyManager : MonoBehaviour
     // Mencatat pembersihan dust trash untuk aturan pengurangan energi
     public void RegisterDustTrashCleaned()
     {
+        // Jika player mencoba membersihkan saat energi habis,
+        // tampilkan warning sebagai feedback visual
         if (!HasEnergy())
+        {
+            if (energyWarning != null)
+                energyWarning.ShowWarning();
             return;
+        }
 
         dustTrashCounter++;
 
+        // Setiap beberapa dust trash, energi akan berkurang
         if (dustTrashCounter >= dustTrashPerEnergy)
         {
             dustTrashCounter = 0;
@@ -128,4 +165,13 @@ public class EnergyManager : MonoBehaviour
 
         Debug.Log("[RESET] EnergyManager reset");
     }
+
+        // Menampilkan warning energi secara manual
+    // Dipanggil oleh sistem lain saat aksi gagal karena energi
+    public void ShowEnergyWarning()
+    {
+        if (energyWarning != null)
+            energyWarning.ShowWarning();
+    }
+
 }

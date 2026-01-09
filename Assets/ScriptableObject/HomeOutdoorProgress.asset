@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e610ae3932ef659489320f4dec8897b2, type: 3}
   m_Name: HomeOutdoorProgress
   m_EditorClassIdentifier: 
-  totalTrash: 0
+  totalTrash: 10
   trashCleaned: 0
   totalSeed: 0
-  seedWatered: 0
-  isClean: 0
+  seedGrown: 0
+  isEnvironmentClean: 0

@@ -120,4 +120,16 @@ public class DecorationPlacementManager : MonoBehaviour
 
         Debug.Log("[RESET] DecorationPlacementManager reset");
     }
+
+    // =========================
+    // WARNING ENERGY (PLACE DECORATION)
+    // =========================
+    // Dipanggil oleh sistem lain saat placement gagal karena energi habis
+    public void ShowEnergyWarningIfNeeded()
+    {
+        if (EnergyManager.Instance != null && !EnergyManager.Instance.HasEnergy())
+        {
+            EnergyManager.Instance.ShowEnergyWarning();
+        }
+    }
 }

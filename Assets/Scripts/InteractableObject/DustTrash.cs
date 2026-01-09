@@ -60,9 +60,12 @@ public class DustTrash : MonoBehaviour
         // Tandai bahwa sedang terjadi interaksi
         isInteracting = true;
 
-        // Debu hanya bisa dibersihkan jika player memegang sapu
-        if (!ToolManager.Instance.isHoldingBroom)
+        // Jika tidak bisa dibersihkan, tampilkan warning yang sesuai
+        if (!CanBeCleaned())
+        {
+            ShowWarningIfNeeded();
             return false;
+        }
 
         // Tambah waktu hold
         currentHoldTime += delta;
@@ -103,6 +106,46 @@ public class DustTrash : MonoBehaviour
         }
 
         return false;
+    }
+
+    // =========================
+    // VALIDATION (DUST TRASH)
+    // =========================
+    bool CanBeCleaned()
+    {
+        // Harus memegang sapu
+        if (!ToolManager.Instance.isHoldingBroom)
+            return false;
+
+        // Harus punya energi
+        if (!EnergyManager.Instance.HasEnergy())
+            return false;
+
+        return true;
+    }
+
+    // =========================
+    // WARNING HANDLER (DUST)
+    // =========================
+    void ShowWarningIfNeeded()
+    {
+        // Jika alat salah → tampilkan warning sapu
+        if (ToolManager.Instance != null &&
+            !ToolManager.Instance.isHoldingBroom)
+        {
+            ToolManager.Instance.ShowWrongToolWarning(
+                ToolManager.ToolType.Broom
+            );
+            return;
+        }
+
+        // Jika energi habis → tampilkan warning energi
+        if (EnergyManager.Instance != null &&
+            !EnergyManager.Instance.HasEnergy())
+        {
+            EnergyManager.Instance.ShowEnergyWarning();
+            return;
+        }
     }
 
     // Mengatur ulang progress pembersihan saat interaksi dibatalkan

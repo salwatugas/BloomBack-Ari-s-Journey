@@ -37,6 +37,15 @@ public class ToolManager : MonoBehaviour
     public bool isHoldingBroom => currentTool == ToolType.Broom;
     public bool isHoldingWatering => currentTool == ToolType.Watering;
 
+    // =========================
+    // WARNING UI (SALAH ALAT)
+    // =========================
+    // Tanda seru di icon sapu
+    public UIWarningIndicator broomWarning;
+
+    // Tanda seru di icon teko siram
+    public UIWarningIndicator wateringWarning;
+
     // Inisialisasi Singleton dan registrasi event perpindahan scene
     void Awake()
     {
@@ -109,6 +118,19 @@ public class ToolManager : MonoBehaviour
                 playerAnimator.runtimeAnimatorController = defaultController;
                 break;
         }
+    }
+
+    // =========================
+    // WARNING HANDLER
+    // =========================
+    // Dipanggil oleh sistem lain saat player menggunakan alat yang salah
+    public void ShowWrongToolWarning(ToolType expectedTool)
+    {
+        if (expectedTool == ToolType.Broom && broomWarning != null)
+            broomWarning.ShowWarning();
+
+        if (expectedTool == ToolType.Watering && wateringWarning != null)
+            wateringWarning.ShowWarning();
     }
 
     // Mengaktifkan alat sapu (dipanggil dari UI)

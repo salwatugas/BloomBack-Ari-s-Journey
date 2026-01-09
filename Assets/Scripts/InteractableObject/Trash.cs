@@ -60,6 +60,13 @@ public class Trash : MonoBehaviour
         // Tandai bahwa sedang terjadi interaksi
         isInteracting = true;
 
+        // Jika tidak bisa dibersihkan, tampilkan warning yang sesuai
+        if (!CanBeCleaned())
+        {
+            ShowWarningIfNeeded();
+            return false;
+        }
+
         // Tambah waktu hold
         currentHoldTime += delta;
         float progress = Mathf.Clamp01(
@@ -104,6 +111,55 @@ public class Trash : MonoBehaviour
         }
 
         return false;
+    }
+
+    // =========================
+    // VALIDATION (TRASH)
+    // =========================
+    bool CanBeCleaned()
+    {
+        // Harus TIDAK memegang alat apapun
+        if (ToolManager.Instance.currentTool != ToolManager.ToolType.None)
+            return false;
+
+        // Harus punya energi
+        if (!EnergyManager.Instance.HasEnergy())
+            return false;
+
+        return true;
+    }
+
+    // =========================
+    // WARNING HANDLER (TRASH)
+    // =========================
+    void ShowWarningIfNeeded()
+    {
+        // Jika sedang memegang sapu
+        if (ToolManager.Instance.currentTool ==
+            ToolManager.ToolType.Broom)
+        {
+            ToolManager.Instance.ShowWrongToolWarning(
+                ToolManager.ToolType.Broom
+            );
+            return;
+        }
+
+        // Jika sedang memegang penyiram
+        if (ToolManager.Instance.currentTool ==
+            ToolManager.ToolType.Watering)
+        {
+            ToolManager.Instance.ShowWrongToolWarning(
+                ToolManager.ToolType.Watering
+            );
+            return;
+        }
+
+        // Jika energi habis
+        if (!EnergyManager.Instance.HasEnergy())
+        {
+            EnergyManager.Instance.ShowEnergyWarning();
+            return;
+        }
     }
 
     // Mengatur ulang progress pembersihan saat interaksi dibatalkan

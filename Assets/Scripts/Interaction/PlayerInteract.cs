@@ -50,8 +50,7 @@ public class PlayerInteract : MonoBehaviour
             seedLayer
         );
 
-        // Interaksi tanaman hanya bisa dilakukan jika player memegang alat penyiram
-        if (ToolManager.Instance.isHoldingWatering && seedHits.Length > 0)
+        if (seedHits.Length > 0)
         {
             // Cari tanaman terdekat dari player
             SeedPlant closestSeed = GetClosestSeed(seedHits);
@@ -69,7 +68,10 @@ public class PlayerInteract : MonoBehaviour
                 if (Input.GetKey(KeyCode.E))
                 {
                     activeSeed.WaterProgress(Time.deltaTime);
-                    wateringSFX?.PlayWatering();
+
+                    // SFX hanya diputar jika memegang alat siram
+                    if (ToolManager.Instance.isHoldingWatering)
+                        wateringSFX?.PlayWatering();
                 }
 
                 // Lepas tombol E untuk menghentikan penyiraman
@@ -85,7 +87,7 @@ public class PlayerInteract : MonoBehaviour
         }
         else
         {
-            // Reset jika player keluar jangkauan atau mengganti alat
+            // Reset jika player keluar jangkauan
             activeSeed?.ResetProgress();
             activeSeed = null;
             wateringSFX?.ResetWatering();
@@ -115,18 +117,21 @@ public class PlayerInteract : MonoBehaviour
         targetTrash = trashHit.GetComponent<Trash>();
         targetDust = trashHit.GetComponent<DustTrash>();
 
-        bool isHoldingBroom = ToolManager.Instance.isHoldingBroom;
-
         // =========================
-        // INTERAKSI DEBU (PAKAI SAPU)
+        // INTERAKSI DEBU
         // =========================
-        if (targetDust != null && isHoldingBroom)
+        if (targetDust != null)
         {
             if (Input.GetKey(KeyCode.E))
             {
                 bool cleaned = targetDust.CleanProgress(Time.deltaTime);
-                animator.SetBool("isSweeping", true);
-                sweepSFX?.PlaySweep();
+
+                // Animasi & SFX hanya aktif jika memegang sapu
+                if (ToolManager.Instance.isHoldingBroom)
+                {
+                    animator.SetBool("isSweeping", true);
+                    sweepSFX?.PlaySweep();
+                }
 
                 if (cleaned)
                     targetDust = null;
@@ -145,9 +150,7 @@ public class PlayerInteract : MonoBehaviour
         // =========================
         // INTERAKSI SAMPAH BIASA
         // =========================
-        if (targetTrash != null &&
-            !isHoldingBroom &&
-            ToolManager.Instance.currentTool == ToolManager.ToolType.None)
+        if (targetTrash != null)
         {
             if (Input.GetKey(KeyCode.E))
             {
